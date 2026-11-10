@@ -29,7 +29,7 @@ Independent, nonpartisan, evidence-based research into how Dartmouth, Massachuse
 5. Never publish protected personal details, banking identifiers, or unrelated private information.
 6. Record corrections and changes; do not silently rewrite a finding.
 
-See [research standards](research/RESEARCH_STANDARDS.md) and [official source register](research/OFFICIAL_SOURCES.md).
+See [research standards](research/RESEARCH_STANDARDS.md), [official source register](research/OFFICIAL_SOURCES.md), and [meeting intelligence](meetings/README.md) (initial 2026 BPW meeting agenda index).
 
 ## Current records requests
 
