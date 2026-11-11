@@ -1,0 +1,1029 @@
+fiscal_year,metric,value,unit,basis_note,source_id
+2016,population_estimate,34715,persons,"US Census estimate for calendar year FY-1 (capped at 2024), as published by DLS",DLS-POP
+2017,population_estimate,34172,persons,"US Census estimate for calendar year FY-1 (capped at 2024), as published by DLS",DLS-POP
+2018,population_estimate,34081,persons,"US Census estimate for calendar year FY-1 (capped at 2024), as published by DLS",DLS-POP
+2019,population_estimate,34307,persons,"US Census estimate for calendar year FY-1 (capped at 2024), as published by DLS",DLS-POP
+2020,population_estimate,34188,persons,"US Census estimate for calendar year FY-1 (capped at 2024), as published by DLS",DLS-POP
+2021,population_estimate,33783,persons,"US Census estimate for calendar year FY-1 (capped at 2024), as published by DLS",DLS-POP
+2022,population_estimate,34005,persons,"US Census estimate for calendar year FY-1 (capped at 2024), as published by DLS",DLS-POP
+2023,population_estimate,33406,persons,"US Census estimate for calendar year FY-1 (capped at 2024), as published by DLS",DLS-POP
+2024,population_estimate,33419,persons,"US Census estimate for calendar year FY-1 (capped at 2024), as published by DLS",DLS-POP
+2025,population_estimate,34139,persons,"US Census estimate for calendar year FY-1 (capped at 2024), as published by DLS",DLS-POP
+2026,population_estimate,34139,persons,"US Census estimate for calendar year FY-1 (capped at 2024), as published by DLS",DLS-POP
+2027,population_estimate,34139,persons,"US Census estimate for calendar year FY-1 (capped at 2024), as published by DLS",DLS-POP
+2016,cpi_u_us_fiscal_year_avg,238.273,index 1982-84=100,"BLS CPI-U US city average, NSA, mean of July-June months",BLS-CPI
+2017,cpi_u_us_fiscal_year_avg,242.656,index 1982-84=100,"BLS CPI-U US city average, NSA, mean of July-June months",BLS-CPI
+2018,cpi_u_us_fiscal_year_avg,248.126,index 1982-84=100,"BLS CPI-U US city average, NSA, mean of July-June months",BLS-CPI
+2019,cpi_u_us_fiscal_year_avg,253.268,index 1982-84=100,"BLS CPI-U US city average, NSA, mean of July-June months",BLS-CPI
+2020,cpi_u_us_fiscal_year_avg,257.23,index 1982-84=100,"BLS CPI-U US city average, NSA, mean of July-June months",BLS-CPI
+2021,cpi_u_us_fiscal_year_avg,263.151,index 1982-84=100,"BLS CPI-U US city average, NSA, mean of July-June months",BLS-CPI
+2022,cpi_u_us_fiscal_year_avg,282.025,index 1982-84=100,"BLS CPI-U US city average, NSA, mean of July-June months",BLS-CPI
+2023,cpi_u_us_fiscal_year_avg,299.685,index 1982-84=100,"BLS CPI-U US city average, NSA, mean of July-June months",BLS-CPI
+2024,cpi_u_us_fiscal_year_avg,309.57,index 1982-84=100,"BLS CPI-U US city average, NSA, mean of July-June months",BLS-CPI
+2025,cpi_u_us_fiscal_year_avg,317.731,index 1982-84=100,"BLS CPI-U US city average, NSA, mean of July-June months",BLS-CPI
+2026,cpi_u_us_fiscal_year_avg,327.668,index 1982-84=100,"BLS CPI-U US city average, NSA, mean of July-June months",BLS-CPI
+2016,schedA_gf_rev_taxes,61686590,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2017,schedA_gf_rev_taxes,64067690,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2018,schedA_gf_rev_taxes,66746840,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2019,schedA_gf_rev_taxes,69848646,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2020,schedA_gf_rev_taxes,71267677,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2021,schedA_gf_rev_taxes,73418841,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2022,schedA_gf_rev_taxes,76343071,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2023,schedA_gf_rev_taxes,78938940,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2024,schedA_gf_rev_taxes,82689172,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2025,schedA_gf_rev_taxes,85813924,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2026,schedA_gf_rev_taxes,88693541,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2016,schedA_gf_rev_service_charges,664232,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2017,schedA_gf_rev_service_charges,731089,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2018,schedA_gf_rev_service_charges,718303,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2019,schedA_gf_rev_service_charges,761412,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2020,schedA_gf_rev_service_charges,646828,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2021,schedA_gf_rev_service_charges,688740,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2022,schedA_gf_rev_service_charges,700358,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2023,schedA_gf_rev_service_charges,752922,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2024,schedA_gf_rev_service_charges,740209,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2025,schedA_gf_rev_service_charges,881941,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2026,schedA_gf_rev_service_charges,795466,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2016,schedA_gf_rev_licenses_and_permits,1113587,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2017,schedA_gf_rev_licenses_and_permits,1028715,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2018,schedA_gf_rev_licenses_and_permits,945651,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2019,schedA_gf_rev_licenses_and_permits,1129330,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2020,schedA_gf_rev_licenses_and_permits,902023,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2021,schedA_gf_rev_licenses_and_permits,967833,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2022,schedA_gf_rev_licenses_and_permits,1980312,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2023,schedA_gf_rev_licenses_and_permits,1827871,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2024,schedA_gf_rev_licenses_and_permits,1354476,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2025,schedA_gf_rev_licenses_and_permits,1597660,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2026,schedA_gf_rev_licenses_and_permits,1791868,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2016,schedA_gf_rev_federal_revenue,537693,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2017,schedA_gf_rev_federal_revenue,426964,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2018,schedA_gf_rev_federal_revenue,320157,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2019,schedA_gf_rev_federal_revenue,403064,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2020,schedA_gf_rev_federal_revenue,512688,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2021,schedA_gf_rev_federal_revenue,137291,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2022,schedA_gf_rev_federal_revenue,368982,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2023,schedA_gf_rev_federal_revenue,394229,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2024,schedA_gf_rev_federal_revenue,290594,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2025,schedA_gf_rev_federal_revenue,161159,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2026,schedA_gf_rev_federal_revenue,362240,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2016,schedA_gf_rev_state_revenue,14377234,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2017,schedA_gf_rev_state_revenue,14663001,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2018,schedA_gf_rev_state_revenue,15139312,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2019,schedA_gf_rev_state_revenue,15112320,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2020,schedA_gf_rev_state_revenue,15113621,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2021,schedA_gf_rev_state_revenue,15153917,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2022,schedA_gf_rev_state_revenue,15793969,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2023,schedA_gf_rev_state_revenue,15760838,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2024,schedA_gf_rev_state_revenue,14357234,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2025,schedA_gf_rev_state_revenue,14960495,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2026,schedA_gf_rev_state_revenue,15553305,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2016,schedA_gf_rev_special_assessments,0,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2017,schedA_gf_rev_special_assessments,8825,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2018,schedA_gf_rev_special_assessments,8524,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2019,schedA_gf_rev_special_assessments,8224,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2020,schedA_gf_rev_special_assessments,3861,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2021,schedA_gf_rev_special_assessments,3743,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2022,schedA_gf_rev_special_assessments,3524,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2023,schedA_gf_rev_special_assessments,3607,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2024,schedA_gf_rev_special_assessments,3294,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2025,schedA_gf_rev_special_assessments,2350,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2026,schedA_gf_rev_special_assessments,2183,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2016,schedA_gf_rev_fines_and_forfeitures,89057,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2017,schedA_gf_rev_fines_and_forfeitures,87894,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2018,schedA_gf_rev_fines_and_forfeitures,97476,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2019,schedA_gf_rev_fines_and_forfeitures,79443,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2020,schedA_gf_rev_fines_and_forfeitures,72789,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2021,schedA_gf_rev_fines_and_forfeitures,78385,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2022,schedA_gf_rev_fines_and_forfeitures,171745,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2023,schedA_gf_rev_fines_and_forfeitures,196262,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2024,schedA_gf_rev_fines_and_forfeitures,171934,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2025,schedA_gf_rev_fines_and_forfeitures,205941,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2026,schedA_gf_rev_fines_and_forfeitures,215604,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2016,schedA_gf_rev_miscellaneous,1318828,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2017,schedA_gf_rev_miscellaneous,1057705,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2018,schedA_gf_rev_miscellaneous,1446709,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2019,schedA_gf_rev_miscellaneous,1685533,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2020,schedA_gf_rev_miscellaneous,1510001,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2021,schedA_gf_rev_miscellaneous,1044838,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2022,schedA_gf_rev_miscellaneous,969995,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2023,schedA_gf_rev_miscellaneous,1928173,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2024,schedA_gf_rev_miscellaneous,2696289,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2025,schedA_gf_rev_miscellaneous,2752598,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2026,schedA_gf_rev_miscellaneous,2022051,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2016,schedA_gf_rev_other_financing_sources,0,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2017,schedA_gf_rev_other_financing_sources,0,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2018,schedA_gf_rev_other_financing_sources,0,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2019,schedA_gf_rev_other_financing_sources,0,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2020,schedA_gf_rev_other_financing_sources,0,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2021,schedA_gf_rev_other_financing_sources,0,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2022,schedA_gf_rev_other_financing_sources,1170,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2023,schedA_gf_rev_other_financing_sources,0,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2024,schedA_gf_rev_other_financing_sources,0,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2025,schedA_gf_rev_other_financing_sources,1000,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2026,schedA_gf_rev_other_financing_sources,0,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2016,schedA_gf_rev_transfers,2912801,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2017,schedA_gf_rev_transfers,3004087,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2018,schedA_gf_rev_transfers,3024706,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2019,schedA_gf_rev_transfers,2909937,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2020,schedA_gf_rev_transfers,3107268,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2021,schedA_gf_rev_transfers,3435890,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2022,schedA_gf_rev_transfers,3442736,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2023,schedA_gf_rev_transfers,3124948,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2024,schedA_gf_rev_transfers,3727306,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2025,schedA_gf_rev_transfers,4002766,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2026,schedA_gf_rev_transfers,4048283,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2016,schedA_gf_rev_total_revenues,82700022,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2017,schedA_gf_rev_total_revenues,85075970,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2018,schedA_gf_rev_total_revenues,88447678,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2019,schedA_gf_rev_total_revenues,91937909,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2020,schedA_gf_rev_total_revenues,93136756,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2021,schedA_gf_rev_total_revenues,94929478,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2022,schedA_gf_rev_total_revenues,99775862,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2023,schedA_gf_rev_total_revenues,102927790,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2024,schedA_gf_rev_total_revenues,106030508,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2025,schedA_gf_rev_total_revenues,110379834,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2026,schedA_gf_rev_total_revenues,113484541,USD,"DLS Schedule A, general fund revenues (cash/statutory basis)",DLS-SCHA-GF
+2016,schedA_gf_exp_general_government,4439322,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2017,schedA_gf_exp_general_government,4746837,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2018,schedA_gf_exp_general_government,4198410,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2019,schedA_gf_exp_general_government,4689441,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2020,schedA_gf_exp_general_government,4077239,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2021,schedA_gf_exp_general_government,4519922,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2022,schedA_gf_exp_general_government,4236992,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2023,schedA_gf_exp_general_government,4575125,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2024,schedA_gf_exp_general_government,5404488,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2025,schedA_gf_exp_general_government,5693937,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2026,schedA_gf_exp_general_government,5930318,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2016,schedA_gf_exp_public_safety,7527529,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2017,schedA_gf_exp_public_safety,8042516,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2018,schedA_gf_exp_public_safety,7832578,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2019,schedA_gf_exp_public_safety,7960809,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2020,schedA_gf_exp_public_safety,7795800,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2021,schedA_gf_exp_public_safety,8276559,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2022,schedA_gf_exp_public_safety,8516121,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2023,schedA_gf_exp_public_safety,9261506,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2024,schedA_gf_exp_public_safety,8644310,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2025,schedA_gf_exp_public_safety,11081158,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2026,schedA_gf_exp_public_safety,10619882,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2016,schedA_gf_exp_education,43904493,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2017,schedA_gf_exp_education,46140856,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2018,schedA_gf_exp_education,47819994,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2019,schedA_gf_exp_education,50227359,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2020,schedA_gf_exp_education,50513581,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2021,schedA_gf_exp_education,51666939,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2022,schedA_gf_exp_education,53876285,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2023,schedA_gf_exp_education,56493436,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2024,schedA_gf_exp_education,57981813,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2025,schedA_gf_exp_education,61147340,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2026,schedA_gf_exp_education,64068105,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2016,schedA_gf_exp_public_works,4911351,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2017,schedA_gf_exp_public_works,4299868,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2018,schedA_gf_exp_public_works,4507705,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2019,schedA_gf_exp_public_works,3723319,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2020,schedA_gf_exp_public_works,5551084,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2021,schedA_gf_exp_public_works,5799376,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2022,schedA_gf_exp_public_works,4708907,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2023,schedA_gf_exp_public_works,5580449,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2024,schedA_gf_exp_public_works,6622195,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2025,schedA_gf_exp_public_works,5366140,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2026,schedA_gf_exp_public_works,5846212,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2016,schedA_gf_exp_human_services,1151691,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2017,schedA_gf_exp_human_services,1312034,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2018,schedA_gf_exp_human_services,1134894,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2019,schedA_gf_exp_human_services,1166050,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2020,schedA_gf_exp_human_services,1229720,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2021,schedA_gf_exp_human_services,1238325,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2022,schedA_gf_exp_human_services,1306132,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2023,schedA_gf_exp_human_services,1372506,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2024,schedA_gf_exp_human_services,1302808,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2025,schedA_gf_exp_human_services,1460151,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2026,schedA_gf_exp_human_services,1523771,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2016,schedA_gf_exp_culture_and_recreation,1606124,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2017,schedA_gf_exp_culture_and_recreation,1505783,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2018,schedA_gf_exp_culture_and_recreation,1890762,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2019,schedA_gf_exp_culture_and_recreation,1758552,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2020,schedA_gf_exp_culture_and_recreation,1960793,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2021,schedA_gf_exp_culture_and_recreation,2010060,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2022,schedA_gf_exp_culture_and_recreation,2255345,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2023,schedA_gf_exp_culture_and_recreation,1868712,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2024,schedA_gf_exp_culture_and_recreation,2473123,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2025,schedA_gf_exp_culture_and_recreation,1774603,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2026,schedA_gf_exp_culture_and_recreation,2148072,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2016,schedA_gf_exp_fixed_costs,9993126,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2017,schedA_gf_exp_fixed_costs,10749879,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2018,schedA_gf_exp_fixed_costs,11719889,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2019,schedA_gf_exp_fixed_costs,12202525,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2020,schedA_gf_exp_fixed_costs,12473486,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2021,schedA_gf_exp_fixed_costs,13640763,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2022,schedA_gf_exp_fixed_costs,14478629,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2023,schedA_gf_exp_fixed_costs,14756573,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2024,schedA_gf_exp_fixed_costs,15572885,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2025,schedA_gf_exp_fixed_costs,17443914,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2026,schedA_gf_exp_fixed_costs,18512914,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2016,schedA_gf_exp_intergov_assessments,1005058,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2017,schedA_gf_exp_intergov_assessments,1084373,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2018,schedA_gf_exp_intergov_assessments,1178298,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2019,schedA_gf_exp_intergov_assessments,1292384,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2020,schedA_gf_exp_intergov_assessments,1393389,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2021,schedA_gf_exp_intergov_assessments,1524578,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2022,schedA_gf_exp_intergov_assessments,1486339,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2023,schedA_gf_exp_intergov_assessments,1638039,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2024,schedA_gf_exp_intergov_assessments,1545869,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2025,schedA_gf_exp_intergov_assessments,1630779,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2026,schedA_gf_exp_intergov_assessments,1704632,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2016,schedA_gf_exp_other_expenditures,724180,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2017,schedA_gf_exp_other_expenditures,835828,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2018,schedA_gf_exp_other_expenditures,281000,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2019,schedA_gf_exp_other_expenditures,0,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2020,schedA_gf_exp_other_expenditures,0,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2021,schedA_gf_exp_other_expenditures,670905,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2022,schedA_gf_exp_other_expenditures,878176,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2023,schedA_gf_exp_other_expenditures,978125,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2024,schedA_gf_exp_other_expenditures,920000,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2025,schedA_gf_exp_other_expenditures,920000,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2026,schedA_gf_exp_other_expenditures,880000,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2016,schedA_gf_exp_debt_service,4506102,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2017,schedA_gf_exp_debt_service,4686238,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2018,schedA_gf_exp_debt_service,4262381,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2019,schedA_gf_exp_debt_service,4927747,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2020,schedA_gf_exp_debt_service,4695641,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2021,schedA_gf_exp_debt_service,5096120,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2022,schedA_gf_exp_debt_service,4994047,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2023,schedA_gf_exp_debt_service,2530788,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2024,schedA_gf_exp_debt_service,2465058,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2025,schedA_gf_exp_debt_service,2094379,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2026,schedA_gf_exp_debt_service,1839311,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2016,schedA_gf_exp_total_expenditures,79768976,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2017,schedA_gf_exp_total_expenditures,83404212,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2018,schedA_gf_exp_total_expenditures,84825911,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2019,schedA_gf_exp_total_expenditures,87948186,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2020,schedA_gf_exp_total_expenditures,89690733,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2021,schedA_gf_exp_total_expenditures,94443547,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2022,schedA_gf_exp_total_expenditures,96736973,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2023,schedA_gf_exp_total_expenditures,99055259,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2024,schedA_gf_exp_total_expenditures,102932549,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2025,schedA_gf_exp_total_expenditures,108612401,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2026,schedA_gf_exp_total_expenditures,113073217,USD,"DLS Schedule A, general fund expenditures (statutory basis)",DLS-SCHA-GF
+2016,schedA_enterprise_exp_water,4160277,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2017,schedA_enterprise_exp_water,4628723,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2018,schedA_enterprise_exp_water,3895637,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2019,schedA_enterprise_exp_water,3957761,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2020,schedA_enterprise_exp_water,4027930,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2021,schedA_enterprise_exp_water,4083203,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2022,schedA_enterprise_exp_water,4665822,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2023,schedA_enterprise_exp_water,5237365,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2024,schedA_enterprise_exp_water,4856815,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2025,schedA_enterprise_exp_water,5552740,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2026,schedA_enterprise_exp_water,6281885,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2016,schedA_enterprise_exp_sewer,4657137,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2017,schedA_enterprise_exp_sewer,3953588,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2018,schedA_enterprise_exp_sewer,4060054,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2019,schedA_enterprise_exp_sewer,5451546,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2020,schedA_enterprise_exp_sewer,4137810,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2021,schedA_enterprise_exp_sewer,4720197,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2022,schedA_enterprise_exp_sewer,4168629,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2023,schedA_enterprise_exp_sewer,4441603,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2024,schedA_enterprise_exp_sewer,5012829,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2025,schedA_enterprise_exp_sewer,5681145,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2026,schedA_enterprise_exp_sewer,5499932,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2016,schedA_enterprise_exp_harbor,295955,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2017,schedA_enterprise_exp_harbor,245073,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2018,schedA_enterprise_exp_harbor,234660,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2019,schedA_enterprise_exp_harbor,268941,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2020,schedA_enterprise_exp_harbor,243930,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2021,schedA_enterprise_exp_harbor,249229,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2022,schedA_enterprise_exp_harbor,388890,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2023,schedA_enterprise_exp_harbor,296830,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2024,schedA_enterprise_exp_harbor,292888,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2025,schedA_enterprise_exp_harbor,292192,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2026,schedA_enterprise_exp_harbor,344923,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2016,schedA_enterprise_exp_other,1532310,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2017,schedA_enterprise_exp_other,1706370,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2018,schedA_enterprise_exp_other,2160115,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2019,schedA_enterprise_exp_other,1797480,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2020,schedA_enterprise_exp_other,1990486,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2021,schedA_enterprise_exp_other,1605522,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2022,schedA_enterprise_exp_other,2169291,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2023,schedA_enterprise_exp_other,2351190,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2024,schedA_enterprise_exp_other,2473612,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2025,schedA_enterprise_exp_other,2820874,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2026,schedA_enterprise_exp_other,2304770,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2016,schedA_enterprise_exp_total_expenditures,10645679,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2017,schedA_enterprise_exp_total_expenditures,10533754,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2018,schedA_enterprise_exp_total_expenditures,10350466,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2019,schedA_enterprise_exp_total_expenditures,11475728,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2020,schedA_enterprise_exp_total_expenditures,10400156,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2021,schedA_enterprise_exp_total_expenditures,10658151,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2022,schedA_enterprise_exp_total_expenditures,11392632,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2023,schedA_enterprise_exp_total_expenditures,12326988,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2024,schedA_enterprise_exp_total_expenditures,12636144,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2025,schedA_enterprise_exp_total_expenditures,14346951,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2026,schedA_enterprise_exp_total_expenditures,14431510,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2016,schedA_enterprise_rev_water,5373971,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2017,schedA_enterprise_rev_water,5315957,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2018,schedA_enterprise_rev_water,5205121,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2019,schedA_enterprise_rev_water,5491869,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2020,schedA_enterprise_rev_water,5047095,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2021,schedA_enterprise_rev_water,5841457,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2022,schedA_enterprise_rev_water,5551870,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2023,schedA_enterprise_rev_water,5675049,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2024,schedA_enterprise_rev_water,6646601,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2025,schedA_enterprise_rev_water,6871868,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2026,schedA_enterprise_rev_water,9047379,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2016,schedA_enterprise_rev_sewer,5634935,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2017,schedA_enterprise_rev_sewer,5185062,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2018,schedA_enterprise_rev_sewer,5530956,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2019,schedA_enterprise_rev_sewer,5712825,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2020,schedA_enterprise_rev_sewer,5353174,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2021,schedA_enterprise_rev_sewer,4694927,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2022,schedA_enterprise_rev_sewer,5424609,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2023,schedA_enterprise_rev_sewer,5346939,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2024,schedA_enterprise_rev_sewer,6615067,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2025,schedA_enterprise_rev_sewer,7308498,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2026,schedA_enterprise_rev_sewer,7072895,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2016,schedA_enterprise_rev_harbor,274466,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2017,schedA_enterprise_rev_harbor,267489,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2018,schedA_enterprise_rev_harbor,274717,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2019,schedA_enterprise_rev_harbor,269106,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2020,schedA_enterprise_rev_harbor,296709,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2021,schedA_enterprise_rev_harbor,323363,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2022,schedA_enterprise_rev_harbor,308395,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2023,schedA_enterprise_rev_harbor,327977,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2024,schedA_enterprise_rev_harbor,350387,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2025,schedA_enterprise_rev_harbor,358540,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2026,schedA_enterprise_rev_harbor,358669,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2016,schedA_enterprise_rev_other,2521315,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2017,schedA_enterprise_rev_other,2299937,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2018,schedA_enterprise_rev_other,2416664,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2019,schedA_enterprise_rev_other,2573021,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2020,schedA_enterprise_rev_other,2582444,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2021,schedA_enterprise_rev_other,2772120,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2022,schedA_enterprise_rev_other,2780445,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2023,schedA_enterprise_rev_other,2785475,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2024,schedA_enterprise_rev_other,2895510,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2025,schedA_enterprise_rev_other,2944907,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2026,schedA_enterprise_rev_other,3082461,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2016,schedA_enterprise_rev_total_revenues,13804687,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2017,schedA_enterprise_rev_total_revenues,13068445,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2018,schedA_enterprise_rev_total_revenues,13427458,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2019,schedA_enterprise_rev_total_revenues,14046821,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2020,schedA_enterprise_rev_total_revenues,13279422,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2021,schedA_enterprise_rev_total_revenues,13631867,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2022,schedA_enterprise_rev_total_revenues,14065319,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2023,schedA_enterprise_rev_total_revenues,14135440,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2024,schedA_enterprise_rev_total_revenues,16507565,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2025,schedA_enterprise_rev_total_revenues,17483813,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2026,schedA_enterprise_rev_total_revenues,19561404,USD,"DLS Schedule A, enterprise funds",DLS-SCHA-ENT
+2016,free_cash_certified,4837341,USD,Certified as of July 1 preceding the labelled fiscal year start per DLS table,DLS-FC
+2017,free_cash_certified,5658602,USD,Certified as of July 1 preceding the labelled fiscal year start per DLS table,DLS-FC
+2018,free_cash_certified,5467530,USD,Certified as of July 1 preceding the labelled fiscal year start per DLS table,DLS-FC
+2019,free_cash_certified,5437751,USD,Certified as of July 1 preceding the labelled fiscal year start per DLS table,DLS-FC
+2020,free_cash_certified,6341645,USD,Certified as of July 1 preceding the labelled fiscal year start per DLS table,DLS-FC
+2021,free_cash_certified,6378908,USD,Certified as of July 1 preceding the labelled fiscal year start per DLS table,DLS-FC
+2022,free_cash_certified,5368033,USD,Certified as of July 1 preceding the labelled fiscal year start per DLS table,DLS-FC
+2023,free_cash_certified,5513056,USD,Certified as of July 1 preceding the labelled fiscal year start per DLS table,DLS-FC
+2024,free_cash_certified,5361236,USD,Certified as of July 1 preceding the labelled fiscal year start per DLS table,DLS-FC
+2025,free_cash_certified,6680509,USD,Certified as of July 1 preceding the labelled fiscal year start per DLS table,DLS-FC
+2026,free_cash_certified,8196550,USD,Certified as of July 1 preceding the labelled fiscal year start per DLS table,DLS-FC
+2027,free_cash_certified,5757206,USD,Certified as of July 1 preceding the labelled fiscal year start per DLS table,DLS-FC
+2016,free_cash_date_certified,9/24/2015,date,DLS,DLS-FC
+2017,free_cash_date_certified,9/19/2016,date,DLS,DLS-FC
+2018,free_cash_date_certified,9/20/2017,date,DLS,DLS-FC
+2019,free_cash_date_certified,9/12/2019,date,DLS,DLS-FC
+2020,free_cash_date_certified,9/12/2019,date,DLS,DLS-FC
+2021,free_cash_date_certified,10/16/2020,date,DLS,DLS-FC
+2022,free_cash_date_certified,9/15/2021,date,DLS,DLS-FC
+2023,free_cash_date_certified,9/8/2022,date,DLS,DLS-FC
+2024,free_cash_date_certified,9/7/2023,date,DLS,DLS-FC
+2025,free_cash_date_certified,12/9/2024,date,DLS,DLS-FC
+2026,free_cash_date_certified,9/8/2025,date,DLS,DLS-FC
+2027,free_cash_date_certified,9/22/2026,date,DLS,DLS-FC
+2016,free_cash_pct_prior_budget,5.9,percent,DLS,DLS-FC
+2017,free_cash_pct_prior_budget,6.65,percent,DLS,DLS-FC
+2018,free_cash_pct_prior_budget,6.26,percent,DLS,DLS-FC
+2019,free_cash_pct_prior_budget,6.03,percent,DLS,DLS-FC
+2020,free_cash_pct_prior_budget,6.79,percent,DLS,DLS-FC
+2021,free_cash_pct_prior_budget,6.63,percent,DLS,DLS-FC
+2022,free_cash_pct_prior_budget,5.47,percent,DLS,DLS-FC
+2023,free_cash_pct_prior_budget,5.34,percent,DLS,DLS-FC
+2024,free_cash_pct_prior_budget,4.97,percent,DLS,DLS-FC
+2025,free_cash_pct_prior_budget,6.29,percent,DLS,DLS-FC
+2026,free_cash_pct_prior_budget,7.08,percent,DLS,DLS-FC
+2027,free_cash_pct_prior_budget,4.96,percent,DLS,DLS-FC
+2016,stabilization_general,6064590,USD,DLS Schedule A balance at fiscal year end,DLS-STAB
+2017,stabilization_general,6286241,USD,DLS Schedule A balance at fiscal year end,DLS-STAB
+2018,stabilization_general,6332949,USD,DLS Schedule A balance at fiscal year end,DLS-STAB
+2019,stabilization_general,6864507,USD,DLS Schedule A balance at fiscal year end,DLS-STAB
+2020,stabilization_general,7300480,USD,DLS Schedule A balance at fiscal year end,DLS-STAB
+2021,stabilization_general,7485594,USD,DLS Schedule A balance at fiscal year end,DLS-STAB
+2022,stabilization_general,8318065,USD,DLS Schedule A balance at fiscal year end,DLS-STAB
+2023,stabilization_general,10634894,USD,DLS Schedule A balance at fiscal year end,DLS-STAB
+2024,stabilization_general,11908206,USD,DLS Schedule A balance at fiscal year end,DLS-STAB
+2025,stabilization_general,13181136,USD,DLS Schedule A balance at fiscal year end,DLS-STAB
+2026,stabilization_general,14052878,USD,DLS Schedule A balance at fiscal year end,DLS-STAB
+2016,stabilization_special_purpose,0,USD,DLS,DLS-STAB
+2017,stabilization_special_purpose,0,USD,DLS,DLS-STAB
+2018,stabilization_special_purpose,643639,USD,DLS,DLS-STAB
+2019,stabilization_special_purpose,681300,USD,DLS,DLS-STAB
+2020,stabilization_special_purpose,1130283,USD,DLS,DLS-STAB
+2021,stabilization_special_purpose,732345,USD,DLS,DLS-STAB
+2022,stabilization_special_purpose,568398,USD,DLS,DLS-STAB
+2023,stabilization_special_purpose,1266309,USD,DLS,DLS-STAB
+2024,stabilization_special_purpose,1827125,USD,DLS,DLS-STAB
+2025,stabilization_special_purpose,2662820,USD,DLS,DLS-STAB
+2026,stabilization_special_purpose,3106124,USD,DLS,DLS-STAB
+2016,stabilization_total,6064590,USD,DLS,DLS-STAB
+2017,stabilization_total,6286241,USD,DLS,DLS-STAB
+2018,stabilization_total,6976588,USD,DLS,DLS-STAB
+2019,stabilization_total,7545807,USD,DLS,DLS-STAB
+2020,stabilization_total,8430763,USD,DLS,DLS-STAB
+2021,stabilization_total,8217939,USD,DLS,DLS-STAB
+2022,stabilization_total,8886463,USD,DLS,DLS-STAB
+2023,stabilization_total,11901203,USD,DLS,DLS-STAB
+2024,stabilization_total,13735331,USD,DLS,DLS-STAB
+2025,stabilization_total,15843956,USD,DLS,DLS-STAB
+2026,stabilization_total,17159002,USD,DLS,DLS-STAB
+2016,dls_operating_budget,85128676,USD,"DLS ""operating budget"" (tax recap total less enterprise/CPA)",DLS-STAB
+2017,dls_operating_budget,87341125,USD,"DLS ""operating budget"" (tax recap total less enterprise/CPA)",DLS-STAB
+2018,dls_operating_budget,90239702,USD,"DLS ""operating budget"" (tax recap total less enterprise/CPA)",DLS-STAB
+2019,dls_operating_budget,93435805,USD,"DLS ""operating budget"" (tax recap total less enterprise/CPA)",DLS-STAB
+2020,dls_operating_budget,96216965,USD,"DLS ""operating budget"" (tax recap total less enterprise/CPA)",DLS-STAB
+2021,dls_operating_budget,98130963,USD,"DLS ""operating budget"" (tax recap total less enterprise/CPA)",DLS-STAB
+2022,dls_operating_budget,103173578,USD,"DLS ""operating budget"" (tax recap total less enterprise/CPA)",DLS-STAB
+2023,dls_operating_budget,107796600,USD,"DLS ""operating budget"" (tax recap total less enterprise/CPA)",DLS-STAB
+2024,dls_operating_budget,106170907,USD,"DLS ""operating budget"" (tax recap total less enterprise/CPA)",DLS-STAB
+2025,dls_operating_budget,115729905,USD,"DLS ""operating budget"" (tax recap total less enterprise/CPA)",DLS-STAB
+2026,dls_operating_budget,116188315,USD,"DLS ""operating budget"" (tax recap total less enterprise/CPA)",DLS-STAB
+2016,stabilization_total_pct_budget,7.12,percent,DLS,DLS-STAB
+2017,stabilization_total_pct_budget,7.2,percent,DLS,DLS-STAB
+2018,stabilization_total_pct_budget,7.73,percent,DLS,DLS-STAB
+2019,stabilization_total_pct_budget,8.08,percent,DLS,DLS-STAB
+2020,stabilization_total_pct_budget,8.76,percent,DLS,DLS-STAB
+2021,stabilization_total_pct_budget,8.37,percent,DLS,DLS-STAB
+2022,stabilization_total_pct_budget,8.61,percent,DLS,DLS-STAB
+2023,stabilization_total_pct_budget,11.04,percent,DLS,DLS-STAB
+2024,stabilization_total_pct_budget,12.94,percent,DLS,DLS-STAB
+2025,stabilization_total_pct_budget,13.69,percent,DLS,DLS-STAB
+2026,stabilization_total_pct_budget,14.77,percent,DLS,DLS-STAB
+2016,debt_outstanding_schedA,57096217,USD,"DLS Schedule A Part 10, all funds, fiscal year end",DLS-DEBT
+2017,debt_outstanding_schedA,50417220,USD,"DLS Schedule A Part 10, all funds, fiscal year end",DLS-DEBT
+2018,debt_outstanding_schedA,57304160,USD,"DLS Schedule A Part 10, all funds, fiscal year end",DLS-DEBT
+2019,debt_outstanding_schedA,51317542,USD,"DLS Schedule A Part 10, all funds, fiscal year end",DLS-DEBT
+2020,debt_outstanding_schedA,47072855,USD,"DLS Schedule A Part 10, all funds, fiscal year end",DLS-DEBT
+2021,debt_outstanding_schedA,41365218,USD,"DLS Schedule A Part 10, all funds, fiscal year end",DLS-DEBT
+2022,debt_outstanding_schedA,44791999,USD,"DLS Schedule A Part 10, all funds, fiscal year end",DLS-DEBT
+2023,debt_outstanding_schedA,41613712,USD,"DLS Schedule A Part 10, all funds, fiscal year end",DLS-DEBT
+2024,debt_outstanding_schedA,39199613,USD,"DLS Schedule A Part 10, all funds, fiscal year end",DLS-DEBT
+2025,debt_outstanding_schedA,35228262,USD,"DLS Schedule A Part 10, all funds, fiscal year end",DLS-DEBT
+2026,debt_outstanding_schedA,31269713,USD,"DLS Schedule A Part 10, all funds, fiscal year end",DLS-DEBT
+2016,equalized_valuation,4985767900,USD,DLS,DLS-DEBT
+2017,equalized_valuation,4985767900,USD,DLS,DLS-DEBT
+2018,equalized_valuation,5465842900,USD,DLS,DLS-DEBT
+2019,equalized_valuation,5465842900,USD,DLS,DLS-DEBT
+2020,equalized_valuation,5885151300,USD,DLS,DLS-DEBT
+2021,equalized_valuation,5885151300,USD,DLS,DLS-DEBT
+2022,equalized_valuation,6198070600,USD,DLS,DLS-DEBT
+2023,equalized_valuation,6198070600,USD,DLS,DLS-DEBT
+2024,equalized_valuation,6798935400,USD,DLS,DLS-DEBT
+2025,equalized_valuation,6798935400,USD,DLS,DLS-DEBT
+2026,equalized_valuation,8516331800,USD,DLS,DLS-DEBT
+2027,equalized_valuation,8516331800,USD,DLS,DLS-DEBT
+2016,gf_debt_service_schedA,4506102,USD,DLS,DLS-DEBT
+2017,gf_debt_service_schedA,4686238,USD,DLS,DLS-DEBT
+2018,gf_debt_service_schedA,4262381,USD,DLS,DLS-DEBT
+2019,gf_debt_service_schedA,4927747,USD,DLS,DLS-DEBT
+2020,gf_debt_service_schedA,4695641,USD,DLS,DLS-DEBT
+2021,gf_debt_service_schedA,5096120,USD,DLS,DLS-DEBT
+2022,gf_debt_service_schedA,4994047,USD,DLS,DLS-DEBT
+2023,gf_debt_service_schedA,2530788,USD,DLS,DLS-DEBT
+2024,gf_debt_service_schedA,2465058,USD,DLS,DLS-DEBT
+2025,gf_debt_service_schedA,2094379,USD,DLS,DLS-DEBT
+2026,gf_debt_service_schedA,1839311,USD,DLS,DLS-DEBT
+2016,debt_authorized_unissued,2797183,USD,DLS,DLS-AUD
+2017,debt_authorized_unissued,8803783,USD,DLS,DLS-AUD
+2018,debt_authorized_unissued,19296278,USD,DLS,DLS-AUD
+2019,debt_authorized_unissued,20436936,USD,DLS,DLS-AUD
+2020,debt_authorized_unissued,21944699,USD,DLS,DLS-AUD
+2021,debt_authorized_unissued,21503281,USD,DLS,DLS-AUD
+2022,debt_authorized_unissued,11271280,USD,DLS,DLS-AUD
+2023,debt_authorized_unissued,11271280,USD,DLS,DLS-AUD
+2024,debt_authorized_unissued,9271280,USD,DLS,DLS-AUD
+2025,debt_authorized_unissued,9621280,USD,DLS,DLS-AUD
+2026,debt_authorized_unissued,9621280,USD,DLS,DLS-AUD
+2016,levy_limit,55422338,USD,DLS tax recap,DLS-LEVY
+2017,levy_limit,57658785,USD,DLS tax recap,DLS-LEVY
+2018,levy_limit,59926087,USD,DLS tax recap,DLS-LEVY
+2019,levy_limit,61996342,USD,DLS tax recap,DLS-LEVY
+2020,levy_limit,64280466,USD,DLS tax recap,DLS-LEVY
+2021,levy_limit,66518146,USD,DLS tax recap,DLS-LEVY
+2022,levy_limit,68928146,USD,DLS tax recap,DLS-LEVY
+2023,levy_limit,71577331,USD,DLS tax recap,DLS-LEVY
+2024,levy_limit,74485164,USD,DLS tax recap,DLS-LEVY
+2025,levy_limit,77520078,USD,DLS tax recap,DLS-LEVY
+2026,levy_limit,80022719,USD,DLS tax recap,DLS-LEVY
+2016,levy_max_allowable,56181641,USD,DLS tax recap,DLS-LEVY
+2017,levy_max_allowable,58307666,USD,DLS tax recap,DLS-LEVY
+2018,levy_max_allowable,60486615,USD,DLS tax recap,DLS-LEVY
+2019,levy_max_allowable,63430367,USD,DLS tax recap,DLS-LEVY
+2020,levy_max_allowable,65573898,USD,DLS tax recap,DLS-LEVY
+2021,levy_max_allowable,67569717,USD,DLS tax recap,DLS-LEVY
+2022,levy_max_allowable,69890584,USD,DLS tax recap,DLS-LEVY
+2023,levy_max_allowable,72508201,USD,DLS tax recap,DLS-LEVY
+2024,levy_max_allowable,75385228,USD,DLS tax recap,DLS-LEVY
+2025,levy_max_allowable,78483513,USD,DLS tax recap,DLS-LEVY
+2026,levy_max_allowable,80892032,USD,DLS tax recap,DLS-LEVY
+2016,tax_levy_total,56169825,USD,DLS tax recap,DLS-LEVY
+2017,tax_levy_total,58265189,USD,DLS tax recap,DLS-LEVY
+2018,tax_levy_total,60434080,USD,DLS tax recap,DLS-LEVY
+2019,tax_levy_total,63383306,USD,DLS tax recap,DLS-LEVY
+2020,tax_levy_total,65545081,USD,DLS tax recap,DLS-LEVY
+2021,tax_levy_total,67528089,USD,DLS tax recap,DLS-LEVY
+2022,tax_levy_total,69887478,USD,DLS tax recap,DLS-LEVY
+2023,tax_levy_total,72489826,USD,DLS tax recap,DLS-LEVY
+2024,tax_levy_total,75296076,USD,DLS tax recap,DLS-LEVY
+2025,tax_levy_total,78411804,USD,DLS tax recap,DLS-LEVY
+2026,tax_levy_total,80883274,USD,DLS tax recap,DLS-LEVY
+2016,levy_excess_capacity,11816,USD,DLS tax recap,DLS-LEVY
+2017,levy_excess_capacity,42477,USD,DLS tax recap,DLS-LEVY
+2018,levy_excess_capacity,52535,USD,DLS tax recap,DLS-LEVY
+2019,levy_excess_capacity,47061,USD,DLS tax recap,DLS-LEVY
+2020,levy_excess_capacity,28817,USD,DLS tax recap,DLS-LEVY
+2021,levy_excess_capacity,41628,USD,DLS tax recap,DLS-LEVY
+2022,levy_excess_capacity,3106,USD,DLS tax recap,DLS-LEVY
+2023,levy_excess_capacity,18375,USD,DLS tax recap,DLS-LEVY
+2024,levy_excess_capacity,89152,USD,DLS tax recap,DLS-LEVY
+2025,levy_excess_capacity,71709,USD,DLS tax recap,DLS-LEVY
+2026,levy_excess_capacity,8758,USD,DLS tax recap,DLS-LEVY
+2016,levy_override_capacity,75204406,USD,DLS tax recap,DLS-LEVY
+2017,levy_override_capacity,78629323,USD,DLS tax recap,DLS-LEVY
+2018,levy_override_capacity,80799565,USD,DLS tax recap,DLS-LEVY
+2019,levy_override_capacity,83071196,USD,DLS tax recap,DLS-LEVY
+2020,levy_override_capacity,84668183,USD,DLS tax recap,DLS-LEVY
+2021,levy_override_capacity,85922142,USD,DLS tax recap,DLS-LEVY
+2022,levy_override_capacity,94631718,USD,DLS tax recap,DLS-LEVY
+2023,levy_override_capacity,109098188,USD,DLS tax recap,DLS-LEVY
+2024,levy_override_capacity,124108597,USD,DLS tax recap,DLS-LEVY
+2025,levy_override_capacity,131569649,USD,DLS tax recap,DLS-LEVY
+2026,levy_override_capacity,143684215,USD,DLS tax recap,DLS-LEVY
+2016,assessed_value_total,5225069750,USD,DLS tax recap,DLS-LEVY
+2017,assessed_value_total,5451524320,USD,DLS tax recap,DLS-LEVY
+2018,assessed_value_total,5629026060,USD,DLS tax recap,DLS-LEVY
+2019,assessed_value_total,5802701510,USD,DLS tax recap,DLS-LEVY
+2020,assessed_value_total,5957945940,USD,DLS tax recap,DLS-LEVY
+2021,assessed_value_total,6097611520,USD,DLS tax recap,DLS-LEVY
+2022,assessed_value_total,6542394572,USD,DLS tax recap,DLS-LEVY
+2023,assessed_value_total,7227020762,USD,DLS tax recap,DLS-LEVY
+2024,assessed_value_total,7943750432,USD,DLS tax recap,DLS-LEVY
+2025,assessed_value_total,8363589082,USD,DLS tax recap,DLS-LEVY
+2026,assessed_value_total,8948277372,USD,DLS tax recap,DLS-LEVY
+2016,new_growth,1379845,USD,DLS,DLS-NG
+2017,new_growth,842857,USD,DLS,DLS-NG
+2018,new_growth,822352,USD,DLS,DLS-NG
+2019,new_growth,572103,USD,DLS,DLS-NG
+2020,new_growth,734215,USD,DLS,DLS-NG
+2021,new_growth,630977,USD,DLS,DLS-NG
+2022,new_growth,793800,USD,DLS,DLS-NG
+2023,new_growth,925981,USD,DLS,DLS-NG
+2024,new_growth,1117328,USD,DLS,DLS-NG
+2025,new_growth,1172785,USD,DLS,DLS-NG
+2026,new_growth,821476,USD,DLS,DLS-NG
+2016,tax_rate_residential,9.84,"USD per $1,000","DLS; Town rate only, excludes fire district rate",DLS-RATE
+2017,tax_rate_residential,9.7,"USD per $1,000","DLS; Town rate only, excludes fire district rate",DLS-RATE
+2018,tax_rate_residential,9.72,"USD per $1,000","DLS; Town rate only, excludes fire district rate",DLS-RATE
+2019,tax_rate_residential,9.93,"USD per $1,000","DLS; Town rate only, excludes fire district rate",DLS-RATE
+2020,tax_rate_residential,9.93,"USD per $1,000","DLS; Town rate only, excludes fire district rate",DLS-RATE
+2021,tax_rate_residential,9.9,"USD per $1,000","DLS; Town rate only, excludes fire district rate",DLS-RATE
+2022,tax_rate_residential,9.47,"USD per $1,000","DLS; Town rate only, excludes fire district rate",DLS-RATE
+2023,tax_rate_residential,8.78,"USD per $1,000","DLS; Town rate only, excludes fire district rate",DLS-RATE
+2024,tax_rate_residential,8.33,"USD per $1,000","DLS; Town rate only, excludes fire district rate",DLS-RATE
+2025,tax_rate_residential,8.26,"USD per $1,000","DLS; Town rate only, excludes fire district rate",DLS-RATE
+2026,tax_rate_residential,8.03,"USD per $1,000","DLS; Town rate only, excludes fire district rate",DLS-RATE
+2016,tax_rate_commercial,15.01,"USD per $1,000",DLS,DLS-RATE
+2017,tax_rate_commercial,15.46,"USD per $1,000",DLS,DLS-RATE
+2018,tax_rate_commercial,15.85,"USD per $1,000",DLS,DLS-RATE
+2019,tax_rate_commercial,16.13,"USD per $1,000",DLS,DLS-RATE
+2020,tax_rate_commercial,16.8,"USD per $1,000",DLS,DLS-RATE
+2021,tax_rate_commercial,17.68,"USD per $1,000",DLS,DLS-RATE
+2022,tax_rate_commercial,17.48,"USD per $1,000",DLS,DLS-RATE
+2023,tax_rate_commercial,17.62,"USD per $1,000",DLS,DLS-RATE
+2024,tax_rate_commercial,16.65,"USD per $1,000",DLS,DLS-RATE
+2025,tax_rate_commercial,16.47,"USD per $1,000",DLS,DLS-RATE
+2026,tax_rate_commercial,15.78,"USD per $1,000",DLS,DLS-RATE
+2016,avg_single_family_value,363591,USD,DLS,DLS-SFTB
+2017,avg_single_family_value,381535,USD,DLS,DLS-SFTB
+2018,avg_single_family_value,395395,USD,DLS,DLS-SFTB
+2019,avg_single_family_value,412641,USD,DLS,DLS-SFTB
+2020,avg_single_family_value,424700,USD,DLS,DLS-SFTB
+2021,avg_single_family_value,437515,USD,DLS,DLS-SFTB
+2022,avg_single_family_value,467924,USD,DLS,DLS-SFTB
+2023,avg_single_family_value,524914,USD,DLS,DLS-SFTB
+2024,avg_single_family_value,578845,USD,DLS,DLS-SFTB
+2025,avg_single_family_value,609104,USD,DLS,DLS-SFTB
+2026,avg_single_family_value,657047,USD,DLS,DLS-SFTB
+2016,avg_single_family_tax_bill,3578,USD,"DLS; Town tax only, excludes fire district tax",DLS-SFTB
+2017,avg_single_family_tax_bill,3701,USD,"DLS; Town tax only, excludes fire district tax",DLS-SFTB
+2018,avg_single_family_tax_bill,3843,USD,"DLS; Town tax only, excludes fire district tax",DLS-SFTB
+2019,avg_single_family_tax_bill,4098,USD,"DLS; Town tax only, excludes fire district tax",DLS-SFTB
+2020,avg_single_family_tax_bill,4217,USD,"DLS; Town tax only, excludes fire district tax",DLS-SFTB
+2021,avg_single_family_tax_bill,4331,USD,"DLS; Town tax only, excludes fire district tax",DLS-SFTB
+2022,avg_single_family_tax_bill,4431,USD,"DLS; Town tax only, excludes fire district tax",DLS-SFTB
+2023,avg_single_family_tax_bill,4609,USD,"DLS; Town tax only, excludes fire district tax",DLS-SFTB
+2024,avg_single_family_tax_bill,4822,USD,"DLS; Town tax only, excludes fire district tax",DLS-SFTB
+2025,avg_single_family_tax_bill,5031,USD,"DLS; Town tax only, excludes fire district tax",DLS-SFTB
+2026,avg_single_family_tax_bill,5276,USD,"DLS; Town tax only, excludes fire district tax",DLS-SFTB
+2016,avg_sf_tax_bill_state_rank,251,rank (1=highest),DLS,DLS-SFTB
+2017,avg_sf_tax_bill_state_rank,253,rank (1=highest),DLS,DLS-SFTB
+2018,avg_sf_tax_bill_state_rank,255,rank (1=highest),DLS,DLS-SFTB
+2019,avg_sf_tax_bill_state_rank,234,rank (1=highest),DLS,DLS-SFTB
+2020,avg_sf_tax_bill_state_rank,242,rank (1=highest),DLS,DLS-SFTB
+2021,avg_sf_tax_bill_state_rank,238,rank (1=highest),DLS,DLS-SFTB
+2022,avg_sf_tax_bill_state_rank,262,rank (1=highest),DLS,DLS-SFTB
+2023,avg_sf_tax_bill_state_rank,269,rank (1=highest),DLS,DLS-SFTB
+2024,avg_sf_tax_bill_state_rank,267,rank (1=highest),DLS,DLS-SFTB
+2025,avg_sf_tax_bill_state_rank,268,rank (1=highest),DLS,DLS-SFTB
+2026,avg_sf_tax_bill_state_rank,263,rank (1=highest),DLS,DLS-SFTB
+2016,dor_income_per_capita,29281,USD,DLS,DLS-SFTB
+2017,dor_income_per_capita,30248,USD,DLS,DLS-SFTB
+2018,dor_income_per_capita,31728,USD,DLS,DLS-SFTB
+2019,dor_income_per_capita,34352,USD,DLS,DLS-SFTB
+2020,dor_income_per_capita,34186,USD,DLS,DLS-SFTB
+2021,dor_income_per_capita,36121,USD,DLS,DLS-SFTB
+2022,dor_income_per_capita,37127,USD,DLS,DLS-SFTB
+2023,dor_income_per_capita,41840,USD,DLS,DLS-SFTB
+2024,dor_income_per_capita,41898,USD,DLS,DLS-SFTB
+2025,dor_income_per_capita,49314,USD,DLS,DLS-SFTB
+2026,dor_income_per_capita,51212,USD,DLS,DLS-SFTB
+2016,state_aid_receipts,12568767,USD,DLS cherry sheet,DLS-AID
+2017,state_aid_receipts,12915772,USD,DLS cherry sheet,DLS-AID
+2018,state_aid_receipts,13291880,USD,DLS cherry sheet,DLS-AID
+2019,state_aid_receipts,13625173,USD,DLS cherry sheet,DLS-AID
+2020,state_aid_receipts,13942892,USD,DLS cherry sheet,DLS-AID
+2021,state_aid_receipts,14005197,USD,DLS cherry sheet,DLS-AID
+2022,state_aid_receipts,14366822,USD,DLS cherry sheet,DLS-AID
+2023,state_aid_receipts,14915975,USD,DLS cherry sheet,DLS-AID
+2024,state_aid_receipts,15294918,USD,DLS cherry sheet,DLS-AID
+2025,state_aid_receipts,15919838,USD,DLS cherry sheet,DLS-AID
+2026,state_aid_receipts,16290004,USD,DLS cherry sheet,DLS-AID
+2027,state_aid_receipts,17090786,USD,DLS cherry sheet,DLS-AID
+2016,state_aid_assessments,943280,USD,DLS,DLS-AID
+2017,state_aid_assessments,1016658,USD,DLS,DLS-AID
+2018,state_aid_assessments,1170395,USD,DLS,DLS-AID
+2019,state_aid_assessments,1202680,USD,DLS,DLS-AID
+2020,state_aid_assessments,1277241,USD,DLS,DLS-AID
+2021,state_aid_assessments,1462565,USD,DLS,DLS-AID
+2022,state_aid_assessments,1420063,USD,DLS,DLS-AID
+2023,state_aid_assessments,1617643,USD,DLS,DLS-AID
+2024,state_aid_assessments,1587886,USD,DLS,DLS-AID
+2025,state_aid_assessments,1549403,USD,DLS,DLS-AID
+2026,state_aid_assessments,1773780,USD,DLS,DLS-AID
+2027,state_aid_assessments,1863105,USD,DLS,DLS-AID
+2016,state_aid_net,11625487,USD,DLS,DLS-AID
+2017,state_aid_net,11899114,USD,DLS,DLS-AID
+2018,state_aid_net,12121485,USD,DLS,DLS-AID
+2019,state_aid_net,12422493,USD,DLS,DLS-AID
+2020,state_aid_net,12665651,USD,DLS,DLS-AID
+2021,state_aid_net,12542632,USD,DLS,DLS-AID
+2022,state_aid_net,12946759,USD,DLS,DLS-AID
+2023,state_aid_net,13298332,USD,DLS,DLS-AID
+2024,state_aid_net,13707032,USD,DLS,DLS-AID
+2025,state_aid_net,14370435,USD,DLS,DLS-AID
+2026,state_aid_net,14516224,USD,DLS,DLS-AID
+2027,state_aid_net,15227681,USD,DLS,DLS-AID
+2016,enterprise_retained_earnings_certified,7114129,USD,"DLS certified, all enterprise funds combined",DLS-ERE
+2017,enterprise_retained_earnings_certified,6762627,USD,"DLS certified, all enterprise funds combined",DLS-ERE
+2018,enterprise_retained_earnings_certified,6034157,USD,"DLS certified, all enterprise funds combined",DLS-ERE
+2019,enterprise_retained_earnings_certified,5509485,USD,"DLS certified, all enterprise funds combined",DLS-ERE
+2020,enterprise_retained_earnings_certified,6427643,USD,"DLS certified, all enterprise funds combined",DLS-ERE
+2021,enterprise_retained_earnings_certified,4381234,USD,"DLS certified, all enterprise funds combined",DLS-ERE
+2022,enterprise_retained_earnings_certified,4473883,USD,"DLS certified, all enterprise funds combined",DLS-ERE
+2023,enterprise_retained_earnings_certified,3639951,USD,"DLS certified, all enterprise funds combined",DLS-ERE
+2024,enterprise_retained_earnings_certified,3116901,USD,"DLS certified, all enterprise funds combined",DLS-ERE
+2025,enterprise_retained_earnings_certified,3467843,USD,"DLS certified, all enterprise funds combined",DLS-ERE
+2026,enterprise_retained_earnings_certified,3415281,USD,"DLS certified, all enterprise funds combined",DLS-ERE
+2027,enterprise_retained_earnings_certified,4513518,USD,"DLS certified, all enterprise funds combined",DLS-ERE
+2016,enterprise_budget_total_dls,14852140,USD,DLS,DLS-ERE
+2017,enterprise_budget_total_dls,13677947,USD,DLS,DLS-ERE
+2018,enterprise_budget_total_dls,15434180,USD,DLS,DLS-ERE
+2019,enterprise_budget_total_dls,15394598,USD,DLS,DLS-ERE
+2020,enterprise_budget_total_dls,14405984,USD,DLS,DLS-ERE
+2021,enterprise_budget_total_dls,15597104,USD,DLS,DLS-ERE
+2022,enterprise_budget_total_dls,15457017,USD,DLS,DLS-ERE
+2023,enterprise_budget_total_dls,16196860,USD,DLS,DLS-ERE
+2024,enterprise_budget_total_dls,16407204,USD,DLS,DLS-ERE
+2025,enterprise_budget_total_dls,17238765,USD,DLS,DLS-ERE
+2026,enterprise_budget_total_dls,18110212,USD,DLS,DLS-ERE
+2016,employees_total,753,count,DLS Schedule A personnel; FY2020 and FY2021 values are identical in source,DLS-PERS
+2017,employees_total,768,count,DLS Schedule A personnel; FY2020 and FY2021 values are identical in source,DLS-PERS
+2018,employees_total,754,count,DLS Schedule A personnel; FY2020 and FY2021 values are identical in source,DLS-PERS
+2019,employees_total,774,count,DLS Schedule A personnel; FY2020 and FY2021 values are identical in source,DLS-PERS
+2020,employees_total,779,count,DLS Schedule A personnel; FY2020 and FY2021 values are identical in source,DLS-PERS
+2021,employees_total,779,count,DLS Schedule A personnel; FY2020 and FY2021 values are identical in source,DLS-PERS
+2022,employees_total,768,count,DLS Schedule A personnel; FY2020 and FY2021 values are identical in source,DLS-PERS
+2023,employees_total,759,count,DLS Schedule A personnel; FY2020 and FY2021 values are identical in source,DLS-PERS
+2024,employees_total,791,count,DLS Schedule A personnel; FY2020 and FY2021 values are identical in source,DLS-PERS
+2025,employees_total,798,count,DLS Schedule A personnel; FY2020 and FY2021 values are identical in source,DLS-PERS
+2026,employees_total,799,count,DLS Schedule A personnel; FY2020 and FY2021 values are identical in source,DLS-PERS
+2016,salaries_wages_total,48739290,USD,DLS,DLS-PERS
+2017,salaries_wages_total,50145692,USD,DLS,DLS-PERS
+2018,salaries_wages_total,47162099,USD,DLS,DLS-PERS
+2019,salaries_wages_total,47737894,USD,DLS,DLS-PERS
+2020,salaries_wages_total,48171717,USD,DLS,DLS-PERS
+2021,salaries_wages_total,48171717,USD,DLS,DLS-PERS
+2022,salaries_wages_total,51466651,USD,DLS,DLS-PERS
+2023,salaries_wages_total,54074980,USD,DLS,DLS-PERS
+2024,salaries_wages_total,57666060,USD,DLS,DLS-PERS
+2025,salaries_wages_total,59776834,USD,DLS,DLS-PERS
+2026,salaries_wages_total,61726498,USD,DLS,DLS-PERS
+2016,recap_tax_levy,56169825,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2017,recap_tax_levy,58265189,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2018,recap_tax_levy,60434080,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2019,recap_tax_levy,63383306,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2020,recap_tax_levy,65545081,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2021,recap_tax_levy,67528089,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2022,recap_tax_levy,69887478,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2023,recap_tax_levy,72489826,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2024,recap_tax_levy,75296076,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2025,recap_tax_levy,78411804,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2026,recap_tax_levy,80883274,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2016,recap_state_aid,14318859,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2017,recap_state_aid,14665864,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2018,recap_state_aid,15041972,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2019,recap_state_aid,15375265,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2020,recap_state_aid,15692983,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2021,recap_state_aid,15699874,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2022,recap_state_aid,16116914,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2023,recap_state_aid,16666067,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2024,recap_state_aid,15295412,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2025,recap_state_aid,15676822,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2026,recap_state_aid,16290004,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2016,recap_local_receipts,6651878,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2017,recap_local_receipts,6966630,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2018,recap_local_receipts,7112700,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2019,recap_local_receipts,7284219,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2020,recap_local_receipts,7410948,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2021,recap_local_receipts,8206641,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2022,recap_local_receipts,9050951,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2023,recap_local_receipts,9349718,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2024,recap_local_receipts,9840215,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2025,recap_local_receipts,10145318,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2026,recap_local_receipts,11258000,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2016,recap_all_other,7988114,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2017,recap_all_other,7443443,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2018,recap_all_other,7650950,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2019,recap_all_other,7393015,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2020,recap_all_other,7567953,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2021,recap_all_other,6696359,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2022,recap_all_other,8118235,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2023,recap_all_other,9290989,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2024,recap_all_other,5739204,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2025,recap_all_other,11495961,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2026,recap_all_other,7757037,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2016,recap_enterprise_cpa,16002444,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2017,recap_enterprise_cpa,15156186,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2018,recap_enterprise_cpa,16210090,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2019,recap_enterprise_cpa,16842071,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2020,recap_enterprise_cpa,15313417,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2021,recap_enterprise_cpa,16411104,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2022,recap_enterprise_cpa,16494830,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2023,recap_enterprise_cpa,17537646,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2024,recap_enterprise_cpa,17733704,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2025,recap_enterprise_cpa,18395343,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2026,recap_enterprise_cpa,19296731,USD,DLS tax recap budgeted revenue by source,DLS-REV
+2016,overlay,541719,USD,DLS,DLS-OVL
+2017,overlay,555905,USD,DLS,DLS-OVL
+2018,overlay,734936,USD,DLS,DLS-OVL
+2019,overlay,572694,USD,DLS,DLS-OVL
+2020,overlay,645000,USD,DLS,DLS-OVL
+2021,overlay,584205,USD,DLS,DLS-OVL
+2022,overlay,586941,USD,DLS,DLS-OVL
+2023,overlay,577572,USD,DLS,DLS-OVL
+2024,overlay,622755,USD,DLS,DLS-OVL
+2025,overlay,831212,USD,DLS,DLS-OVL
+2026,overlay,791034,USD,DLS,DLS-OVL
+2016,tax_receivables_total_pct_levy,2.9,percent,DLS,DLS-REC
+2017,tax_receivables_total_pct_levy,3.04,percent,DLS,DLS-REC
+2018,tax_receivables_total_pct_levy,2.89,percent,DLS,DLS-REC
+2019,tax_receivables_total_pct_levy,3.05,percent,DLS,DLS-REC
+2020,tax_receivables_total_pct_levy,3.58,percent,DLS,DLS-REC
+2021,tax_receivables_total_pct_levy,3.15,percent,DLS,DLS-REC
+2022,tax_receivables_total_pct_levy,3.21,percent,DLS,DLS-REC
+2023,tax_receivables_total_pct_levy,3.51,percent,DLS,DLS-REC
+2024,tax_receivables_total_pct_levy,4.25,percent,DLS,DLS-REC
+2025,tax_receivables_total_pct_levy,4.15,percent,DLS,DLS-REC
+2026,tax_receivables_total_pct_levy,3.98,percent,DLS,DLS-REC
+2016,audit_net_position_total,95340117,USD,Audited financial statements (GAAP),AUDIT
+2017,audit_net_position_total,96535569,USD,Audited financial statements (GAAP),AUDIT
+2018,audit_net_position_total,64554054,USD,Audited financial statements (GAAP),AUDIT
+2019,audit_net_position_total,76021026,USD,Audited financial statements (GAAP),AUDIT
+2020,audit_net_position_total,81581884,USD,Audited financial statements (GAAP),AUDIT
+2021,audit_net_position_total,83072251,USD,Audited financial statements (GAAP),AUDIT
+2022,audit_net_position_total,93276610,USD,Audited financial statements (GAAP),AUDIT
+2023,audit_net_position_total,93860180,USD,Audited financial statements (GAAP),AUDIT
+2024,audit_net_position_total,93766675,USD,Audited financial statements (GAAP),AUDIT
+2025,audit_net_position_total,96727271,USD,Audited financial statements (GAAP),AUDIT
+2016,audit_gov_unrestricted_net_position,-33920012,USD,Audited financial statements (GAAP),AUDIT
+2017,audit_gov_unrestricted_net_position,-37194415,USD,Audited financial statements (GAAP),AUDIT
+2018,audit_gov_unrestricted_net_position,-77595419,USD,Audited financial statements (GAAP),AUDIT
+2019,audit_gov_unrestricted_net_position,-77077654,USD,Audited financial statements (GAAP),AUDIT
+2020,audit_gov_unrestricted_net_position,-76672387,USD,Audited financial statements (GAAP),AUDIT
+2021,audit_gov_unrestricted_net_position,-80974756,USD,Audited financial statements (GAAP),AUDIT
+2022,audit_gov_unrestricted_net_position,-77363651,USD,Audited financial statements (GAAP),AUDIT
+2023,audit_gov_unrestricted_net_position,-76386153,USD,Audited financial statements (GAAP),AUDIT
+2024,audit_gov_unrestricted_net_position,-79418731,USD,Audited financial statements (GAAP),AUDIT
+2025,audit_gov_unrestricted_net_position,-81162476,USD,Audited financial statements (GAAP),AUDIT
+2016,audit_gf_fund_balance_total,18975449,USD,Audited financial statements (GAAP),AUDIT
+2017,audit_gf_fund_balance_total,19983111,USD,Audited financial statements (GAAP),AUDIT
+2018,audit_gf_fund_balance_total,20588230,USD,Audited financial statements (GAAP),AUDIT
+2019,audit_gf_fund_balance_total,23330209,USD,Audited financial statements (GAAP),AUDIT
+2020,audit_gf_fund_balance_total,25393883,USD,Audited financial statements (GAAP),AUDIT
+2021,audit_gf_fund_balance_total,25391225,USD,Audited financial statements (GAAP),AUDIT
+2022,audit_gf_fund_balance_total,28684810,USD,Audited financial statements (GAAP),AUDIT
+2023,audit_gf_fund_balance_total,33172045,USD,Audited financial statements (GAAP),AUDIT
+2024,audit_gf_fund_balance_total,36633481,USD,Audited financial statements (GAAP),AUDIT
+2025,audit_gf_fund_balance_total,39049677,USD,Audited financial statements (GAAP),AUDIT
+2016,audit_gf_fund_balance_unassigned,12636227,USD,Audited financial statements (GAAP),AUDIT
+2017,audit_gf_fund_balance_unassigned,12627108,USD,Audited financial statements (GAAP),AUDIT
+2018,audit_gf_fund_balance_unassigned,12663115,USD,Audited financial statements (GAAP),AUDIT
+2019,audit_gf_fund_balance_unassigned,15506710,USD,Audited financial statements (GAAP),AUDIT
+2020,audit_gf_fund_balance_unassigned,15536598,USD,Audited financial statements (GAAP),AUDIT
+2021,audit_gf_fund_balance_unassigned,14157688,USD,Audited financial statements (GAAP),AUDIT
+2022,audit_gf_fund_balance_unassigned,16422822,USD,Audited financial statements (GAAP),AUDIT
+2023,audit_gf_fund_balance_unassigned,18622130,USD,Audited financial statements (GAAP),AUDIT
+2024,audit_gf_fund_balance_unassigned,21220786,USD,Audited financial statements (GAAP),AUDIT
+2025,audit_gf_fund_balance_unassigned,23733507,USD,Audited financial statements (GAAP),AUDIT
+2016,audit_gf_revenues_gaap,79834751,USD,Audited financial statements (GAAP); FY2017+ includes state on-behalf teacher pension,AUDIT
+2017,audit_gf_revenues_gaap,91124272,USD,Audited financial statements (GAAP); FY2017+ includes state on-behalf teacher pension,AUDIT
+2018,audit_gf_revenues_gaap,89712555,USD,Audited financial statements (GAAP); FY2017+ includes state on-behalf teacher pension,AUDIT
+2019,audit_gf_revenues_gaap,94499807,USD,Audited financial statements (GAAP); FY2017+ includes state on-behalf teacher pension,AUDIT
+2020,audit_gf_revenues_gaap,96163352,USD,Audited financial statements (GAAP); FY2017+ includes state on-behalf teacher pension,AUDIT
+2021,audit_gf_revenues_gaap,97753867,USD,Audited financial statements (GAAP); FY2017+ includes state on-behalf teacher pension,AUDIT
+2022,audit_gf_revenues_gaap,102704875,USD,Audited financial statements (GAAP); FY2017+ includes state on-behalf teacher pension,AUDIT
+2023,audit_gf_revenues_gaap,108213836,USD,Audited financial statements (GAAP); FY2017+ includes state on-behalf teacher pension,AUDIT
+2024,audit_gf_revenues_gaap,111692479,USD,Audited financial statements (GAAP); FY2017+ includes state on-behalf teacher pension,AUDIT
+2025,audit_gf_revenues_gaap,116874791,USD,Audited financial statements (GAAP); FY2017+ includes state on-behalf teacher pension,AUDIT
+2016,audit_gf_expenditures_gaap,77811747,USD,Audited financial statements (GAAP); FY2017+ includes state on-behalf teacher pension,AUDIT
+2017,audit_gf_expenditures_gaap,90410168,USD,Audited financial statements (GAAP); FY2017+ includes state on-behalf teacher pension,AUDIT
+2018,audit_gf_expenditures_gaap,88151028,USD,Audited financial statements (GAAP); FY2017+ includes state on-behalf teacher pension,AUDIT
+2019,audit_gf_expenditures_gaap,91352377,USD,Audited financial statements (GAAP); FY2017+ includes state on-behalf teacher pension,AUDIT
+2020,audit_gf_expenditures_gaap,93963000,USD,Audited financial statements (GAAP); FY2017+ includes state on-behalf teacher pension,AUDIT
+2021,audit_gf_expenditures_gaap,97258586,USD,Audited financial statements (GAAP); FY2017+ includes state on-behalf teacher pension,AUDIT
+2022,audit_gf_expenditures_gaap,98725246,USD,Audited financial statements (GAAP); FY2017+ includes state on-behalf teacher pension,AUDIT
+2023,audit_gf_expenditures_gaap,103899832,USD,Audited financial statements (GAAP); FY2017+ includes state on-behalf teacher pension,AUDIT
+2024,audit_gf_expenditures_gaap,108055793,USD,Audited financial statements (GAAP); FY2017+ includes state on-behalf teacher pension,AUDIT
+2025,audit_gf_expenditures_gaap,114760894,USD,Audited financial statements (GAAP); FY2017+ includes state on-behalf teacher pension,AUDIT
+2016,audit_bonds_outstanding_total,57096212,USD,Audited financial statements (GAAP),AUDIT
+2017,audit_bonds_outstanding_total,50417214,USD,Audited financial statements (GAAP),AUDIT
+2018,audit_bonds_outstanding_total,57970775,USD,Audited financial statements (GAAP),AUDIT
+2019,audit_bonds_outstanding_total,51950925,USD,Audited financial statements (GAAP),AUDIT
+2020,audit_bonds_outstanding_total,47672807,USD,Audited financial statements (GAAP),AUDIT
+2021,audit_bonds_outstanding_total,41931838,USD,Audited financial statements (GAAP),AUDIT
+2022,audit_bonds_outstanding_total,46110078,USD,Audited financial statements (GAAP),AUDIT
+2023,audit_bonds_outstanding_total,42852526,USD,Audited financial statements (GAAP),AUDIT
+2024,audit_bonds_outstanding_total,40359160,USD,Audited financial statements (GAAP),AUDIT
+2025,audit_bonds_outstanding_total,36308542,USD,Audited financial statements (GAAP),AUDIT
+2016,audit_bonds_outstanding_governmental,25187061,USD,Audited financial statements (GAAP),AUDIT
+2017,audit_bonds_outstanding_governmental,21290550,USD,Audited financial statements (GAAP),AUDIT
+2018,audit_bonds_outstanding_governmental,30690171,USD,Audited financial statements (GAAP),AUDIT
+2019,audit_bonds_outstanding_governmental,26774290,USD,Audited financial statements (GAAP),AUDIT
+2020,audit_bonds_outstanding_governmental,22982959,USD,Audited financial statements (GAAP),AUDIT
+2021,audit_bonds_outstanding_governmental,19422628,USD,Audited financial statements (GAAP),AUDIT
+2022,audit_bonds_outstanding_governmental,20631546,USD,Audited financial statements (GAAP),AUDIT
+2023,audit_bonds_outstanding_governmental,18692044,USD,Audited financial statements (GAAP),AUDIT
+2024,audit_bonds_outstanding_governmental,16762542,USD,Audited financial statements (GAAP),AUDIT
+2025,audit_bonds_outstanding_governmental,15281040,USD,Audited financial statements (GAAP),AUDIT
+2016,audit_bonds_outstanding_business_type,31909151,USD,Audited financial statements (GAAP) (derived: total less governmental),AUDIT
+2017,audit_bonds_outstanding_business_type,29126664,USD,Audited financial statements (GAAP) (derived: total less governmental),AUDIT
+2018,audit_bonds_outstanding_business_type,27280604,USD,Audited financial statements (GAAP) (derived: total less governmental),AUDIT
+2019,audit_bonds_outstanding_business_type,25176635,USD,Audited financial statements (GAAP) (derived: total less governmental),AUDIT
+2020,audit_bonds_outstanding_business_type,24689848,USD,Audited financial statements (GAAP) (derived: total less governmental),AUDIT
+2021,audit_bonds_outstanding_business_type,22509210,USD,Audited financial statements (GAAP) (derived: total less governmental),AUDIT
+2022,audit_bonds_outstanding_business_type,25478532,USD,Audited financial statements (GAAP) (derived: total less governmental),AUDIT
+2023,audit_bonds_outstanding_business_type,24160482,USD,Audited financial statements (GAAP) (derived: total less governmental),AUDIT
+2024,audit_bonds_outstanding_business_type,23596618,USD,Audited financial statements (GAAP) (derived: total less governmental),AUDIT
+2025,audit_bonds_outstanding_business_type,21027502,USD,Audited financial statements (GAAP) (derived: total less governmental),AUDIT
+2016,audit_net_pension_liability,41503714,USD,Audited financial statements (GAAP),AUDIT
+2017,audit_net_pension_liability,41185090,USD,Audited financial statements (GAAP),AUDIT
+2018,audit_net_pension_liability,38493899,USD,Audited financial statements (GAAP),AUDIT
+2019,audit_net_pension_liability,45692014,USD,Audited financial statements (GAAP),AUDIT
+2020,audit_net_pension_liability,56434697,USD,Audited financial statements (GAAP),AUDIT
+2021,audit_net_pension_liability,53279470,USD,Audited financial statements (GAAP),AUDIT
+2022,audit_net_pension_liability,43943242,USD,Audited financial statements (GAAP),AUDIT
+2023,audit_net_pension_liability,61642495,USD,Audited financial statements (GAAP),AUDIT
+2024,audit_net_pension_liability,66704652,USD,Audited financial statements (GAAP),AUDIT
+2025,audit_net_pension_liability,65536186,USD,Audited financial statements (GAAP),AUDIT
+2016,audit_pension_plan_funded_pct,62.9,percent,Bristol County Retirement System plan fiduciary net position as % of total pension liability,AUDIT
+2017,audit_pension_plan_funded_pct,64.17,percent,Bristol County Retirement System plan fiduciary net position as % of total pension liability,AUDIT
+2018,audit_pension_plan_funded_pct,68.6,percent,Bristol County Retirement System plan fiduciary net position as % of total pension liability,AUDIT
+2019,audit_pension_plan_funded_pct,63.48,percent,Bristol County Retirement System plan fiduciary net position as % of total pension liability,AUDIT
+2020,audit_pension_plan_funded_pct,61.25,percent,Bristol County Retirement System plan fiduciary net position as % of total pension liability,AUDIT
+2021,audit_pension_plan_funded_pct,65.24,percent,Bristol County Retirement System plan fiduciary net position as % of total pension liability,AUDIT
+2022,audit_pension_plan_funded_pct,71.6,percent,Bristol County Retirement System plan fiduciary net position as % of total pension liability,AUDIT
+2023,audit_pension_plan_funded_pct,61.8,percent,Bristol County Retirement System plan fiduciary net position as % of total pension liability,AUDIT
+2024,audit_pension_plan_funded_pct,61.9,percent,Bristol County Retirement System plan fiduciary net position as % of total pension liability,AUDIT
+2025,audit_pension_plan_funded_pct,63.8,percent,Bristol County Retirement System plan fiduciary net position as % of total pension liability,AUDIT
+2016,audit_opeb_total_liability,49300871,USD,Audited financial statements (GAAP),AUDIT
+2017,audit_opeb_total_liability,73795054,USD,Audited financial statements (GAAP),AUDIT
+2018,audit_opeb_total_liability,59414166,USD,Audited financial statements (GAAP),AUDIT
+2019,audit_opeb_total_liability,66109536,USD,Audited financial statements (GAAP),AUDIT
+2020,audit_opeb_total_liability,69103325,USD,Audited financial statements (GAAP),AUDIT
+2021,audit_opeb_total_liability,77311469,USD,Audited financial statements (GAAP),AUDIT
+2022,audit_opeb_total_liability,79796764,USD,Audited financial statements (GAAP),AUDIT
+2023,audit_opeb_total_liability,77219200,USD,Audited financial statements (GAAP),AUDIT
+2024,audit_opeb_total_liability,74198573,USD,Audited financial statements (GAAP),AUDIT
+2025,audit_opeb_total_liability,82013999,USD,Audited financial statements (GAAP),AUDIT
+2016,audit_opeb_trust_assets,1106690,USD,Audited financial statements (GAAP),AUDIT
+2017,audit_opeb_trust_assets,1808459,USD,Audited financial statements (GAAP),AUDIT
+2018,audit_opeb_trust_assets,2087150,USD,Audited financial statements (GAAP),AUDIT
+2019,audit_opeb_trust_assets,2718352,USD,Audited financial statements (GAAP),AUDIT
+2020,audit_opeb_trust_assets,3359135,USD,Audited financial statements (GAAP),AUDIT
+2021,audit_opeb_trust_assets,4722417,USD,Audited financial statements (GAAP),AUDIT
+2022,audit_opeb_trust_assets,5275125,USD,Audited financial statements (GAAP),AUDIT
+2023,audit_opeb_trust_assets,6620501,USD,Audited financial statements (GAAP),AUDIT
+2024,audit_opeb_trust_assets,8192949,USD,Audited financial statements (GAAP),AUDIT
+2025,audit_opeb_trust_assets,9652873,USD,Audited financial statements (GAAP),AUDIT
+2016,audit_opeb_employer_contribution,1651041,USD,Audited financial statements (GAAP),AUDIT
+2017,audit_opeb_employer_contribution,2243050,USD,Audited financial statements (GAAP),AUDIT
+2018,audit_opeb_employer_contribution,2403319,USD,Audited financial statements (GAAP),AUDIT
+2019,audit_opeb_employer_contribution,2872360,USD,Audited financial statements (GAAP),AUDIT
+2020,audit_opeb_employer_contribution,3144497,USD,Audited financial statements (GAAP),AUDIT
+2021,audit_opeb_employer_contribution,3363759,USD,Audited financial statements (GAAP),AUDIT
+2022,audit_opeb_employer_contribution,3653986,USD,Audited financial statements (GAAP),AUDIT
+2023,audit_opeb_employer_contribution,3855178,USD,Audited financial statements (GAAP),AUDIT
+2024,audit_opeb_employer_contribution,3533602,USD,Audited financial statements (GAAP),AUDIT
+2025,audit_opeb_employer_contribution,3892507,USD,Audited financial statements (GAAP),AUDIT
+2016,audit_opeb_actuarially_determined_contribution,5371098,USD,Audited financial statements (GAAP),AUDIT
+2017,audit_opeb_actuarially_determined_contribution,6362469,USD,Audited financial statements (GAAP),AUDIT
+2018,audit_opeb_actuarially_determined_contribution,5430029,USD,Audited financial statements (GAAP),AUDIT
+2019,audit_opeb_actuarially_determined_contribution,4678541,USD,Audited financial statements (GAAP),AUDIT
+2020,audit_opeb_actuarially_determined_contribution,4842831,USD,Audited financial statements (GAAP),AUDIT
+2021,audit_opeb_actuarially_determined_contribution,5229717,USD,Audited financial statements (GAAP),AUDIT
+2022,audit_opeb_actuarially_determined_contribution,5453452,USD,Audited financial statements (GAAP),AUDIT
+2023,audit_opeb_actuarially_determined_contribution,5021514,USD,Audited financial statements (GAAP),AUDIT
+2024,audit_opeb_actuarially_determined_contribution,5384881,USD,Audited financial statements (GAAP),AUDIT
+2025,audit_opeb_actuarially_determined_contribution,5362049,USD,Audited financial statements (GAAP),AUDIT
+2016,budgetary_gf_rev_final_budget,79371752,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2017,budgetary_gf_rev_final_budget,82273661,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2018,budgetary_gf_rev_final_budget,84641625,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2019,budgetary_gf_rev_final_budget,85113496,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2020,budgetary_gf_rev_final_budget,87481421,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2021,budgetary_gf_rev_final_budget,90244734,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2022,budgetary_gf_rev_final_budget,93810476,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2023,budgetary_gf_rev_final_budget,97416790,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2024,budgetary_gf_rev_final_budget,98945434,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2025,budgetary_gf_rev_final_budget,102567920,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2016,budgetary_gf_rev_actual,82658926,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2017,budgetary_gf_rev_actual,85112626,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2018,budgetary_gf_rev_actual,87873495,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2019,budgetary_gf_rev_actual,88984286,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2020,budgetary_gf_rev_actual,89994923,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2021,budgetary_gf_rev_actual,91449960,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2022,budgetary_gf_rev_actual,96296730,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2023,budgetary_gf_rev_actual,100046292,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2024,budgetary_gf_rev_actual,102303199,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2025,budgetary_gf_rev_actual,106377103,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2016,budgetary_gf_exp_final_budget,84840379,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2017,budgetary_gf_exp_final_budget,87465732,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2018,budgetary_gf_exp_final_budget,90193058,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2019,budgetary_gf_exp_final_budget,92128265,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2020,budgetary_gf_exp_final_budget,101028634,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2021,budgetary_gf_exp_final_budget,104428643,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2022,budgetary_gf_exp_final_budget,108353014,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2023,budgetary_gf_exp_final_budget,114311513,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2024,budgetary_gf_exp_final_budget,116619428,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2025,budgetary_gf_exp_final_budget,124114352,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2016,budgetary_gf_exp_actual,82431283,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2017,budgetary_gf_exp_actual,84852158,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2018,budgetary_gf_exp_actual,87677006,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2019,budgetary_gf_exp_actual,88847100,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2020,budgetary_gf_exp_actual,97561706,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2021,budgetary_gf_exp_actual,100598555,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2022,budgetary_gf_exp_actual,105576915,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2023,budgetary_gf_exp_actual,110586622,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2024,budgetary_gf_exp_actual,113389985,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2025,budgetary_gf_exp_actual,120418532,USD,Audit RSI budgetary comparison schedule (budgetary basis; includes other financing uses where presented),AUDIT
+2016,federal_awards_expended,2458118,USD,Schedule of Expenditures of Federal Awards,AUDIT
+2017,federal_awards_expended,2053757,USD,Schedule of Expenditures of Federal Awards,AUDIT
+2018,federal_awards_expended,2088440,USD,Schedule of Expenditures of Federal Awards,AUDIT
+2019,federal_awards_expended,2197710,USD,Schedule of Expenditures of Federal Awards,AUDIT
+2020,federal_awards_expended,2693809,USD,Schedule of Expenditures of Federal Awards,AUDIT
+2021,federal_awards_expended,5902359,USD,Schedule of Expenditures of Federal Awards,AUDIT
+2022,federal_awards_expended,7701775,USD,Schedule of Expenditures of Federal Awards,AUDIT
+2023,federal_awards_expended,5969729,USD,Schedule of Expenditures of Federal Awards,AUDIT
+2024,federal_awards_expended,4920705,USD,Schedule of Expenditures of Federal Awards,AUDIT
+2025,federal_awards_expended,6498938,USD,Schedule of Expenditures of Federal Awards,AUDIT
+2017,audit_net_opeb_liability,71986595,USD,"Audited financial statements (GAAP) (total OPEB liability less plan fiduciary net position, per OPEB note)",AUDIT
+2018,audit_net_opeb_liability,57327016,USD,"Audited financial statements (GAAP) (total OPEB liability less plan fiduciary net position, per OPEB note)",AUDIT
+2019,audit_net_opeb_liability,63391184,USD,"Audited financial statements (GAAP) (total OPEB liability less plan fiduciary net position, per OPEB note)",AUDIT
+2020,audit_net_opeb_liability,65744190,USD,"Audited financial statements (GAAP) (total OPEB liability less plan fiduciary net position, per OPEB note)",AUDIT
+2021,audit_net_opeb_liability,72589052,USD,"Audited financial statements (GAAP) (total OPEB liability less plan fiduciary net position, per OPEB note)",AUDIT
+2022,audit_net_opeb_liability,74521639,USD,"Audited financial statements (GAAP) (total OPEB liability less plan fiduciary net position, per OPEB note)",AUDIT
+2023,audit_net_opeb_liability,70598699,USD,"Audited financial statements (GAAP) (total OPEB liability less plan fiduciary net position, per OPEB note)",AUDIT
+2024,audit_net_opeb_liability,66005624,USD,"Audited financial statements (GAAP) (total OPEB liability less plan fiduciary net position, per OPEB note)",AUDIT
+2025,audit_net_opeb_liability,72361126,USD,"Audited financial statements (GAAP) (total OPEB liability less plan fiduciary net position, per OPEB note)",AUDIT
+2022,town_schedA_budget_doc_actual_total,91547317,USD,"Town ""Schedule A"" general fund operating budget document, actual expenditures column",TOWN-BUD
+2023,town_schedA_budget_doc_actual_total,93055811,USD,"Town ""Schedule A"" general fund operating budget document, actual expenditures column",TOWN-BUD
+2024,town_schedA_budget_doc_actual_total,96338227,USD,"Town ""Schedule A"" general fund operating budget document, actual expenditures column",TOWN-BUD
+2025,town_schedA_budget_doc_actual_total,101592765,USD,"Town ""Schedule A"" general fund operating budget document, actual expenditures column",TOWN-BUD
+2025,town_schedA_budget_doc_budget_total,104553491,USD,"Town ""Schedule A"" operating budget document, revised/approved budget",TOWN-BUD
+2026,town_schedA_budget_doc_budget_total,108500032,USD,"Town ""Schedule A"" operating budget document, revised/approved budget",TOWN-BUD
+2027,town_schedA_budget_doc_budget_total,113389515,USD,"Town ""Schedule A"" operating budget document, revised/approved budget",TOWN-BUD
