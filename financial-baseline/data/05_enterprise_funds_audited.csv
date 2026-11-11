@@ -1,0 +1,34 @@
+fiscal_year,fund,operating_revenues,operating_expenses,operating_income_loss,transfers_net,change_in_net_position,ending_net_position,unrestricted_net_position,pdf_page,text_match_check,report_pdf_url
+2016,Sewer,5798156,6894283,-1096127,-121480,-1583072,31148863,9542178,36,verified in report text,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,Water,5570660,5322796,247864,-344008,-129815,14884816,1132483,36,verified in report text,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,"Nonmajor (FY2016-22: solid waste, waterways, DCTV; FY2023+: waterways, DCTV)",2805330,3036361,-231031,-37160,-271427,2206521,107862,36,verified in report text,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2017,Sewer,5130727,5480257,-349530,39933,-405947,30742916,8981490,39,verified in report text,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,Water,5224020,4586636,637384,5561,568342,15453158,750794,39,verified in report text,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,"Nonmajor (FY2016-22: solid waste, waterways, DCTV; FY2023+: waterways, DCTV)",2575987,2938351,-362364,262209,-3191,2203330,164582,39,verified in report text,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2018,Sewer,5615347,5289888,325459,9673,329804,30840514,10685189,39,verified in report text,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,Water,5193461,4523982,669479,5274,599255,15959580,886427,39,verified in report text,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,"Nonmajor (FY2016-22: solid waste, waterways, DCTV; FY2023+: waterways, DCTV)",2683600,2893483,-209883,75000,-71374,1907918,-473982,39,verified in report text,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2019,Sewer,5661842,6221320,-559478,-4991,-677474,30163040,6869287,39,verified in report text,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,Water,5558872,5045635,513237,53567,468410,16427990,935575,39,verified in report text,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,"Nonmajor (FY2016-22: solid waste, waterways, DCTV; FY2023+: waterways, DCTV)",2836051,2877542,-41491,57791,1050232,2958150,-106419,39,verified in report text,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2020,Sewer,5431733,6336320,-904587,0,-1015855,29147185,6136750,39,verified in report text,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,Water,5123200,5112742,10458,0,-90227,16337763,-50056,39,verified in report text,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,"Nonmajor (FY2016-22: solid waste, waterways, DCTV; FY2023+: waterways, DCTV)",2900191,2865342,34849,44000,315371,3273521,-55863,39,verified in report text,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2021,Sewer,4686756,6397989,-1711233,0,-1825689,27321496,4125166,38,verified in report text,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,Water,5717632,5233033,484599,0,419447,16757210,778127,38,verified in report text,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,"Nonmajor (FY2016-22: solid waste, waterways, DCTV; FY2023+: waterways, DCTV)",3103949,3126029,-22080,24115,18364,3291885,348053,38,verified in report text,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2022,Sewer,5520973,6062329,-541356,0,-652914,26668582,3847736,34,verified in report text,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,Water,5539776,5592596,-52820,0,-124773,16632437,1133289,34,verified in report text,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,"Nonmajor (FY2016-22: solid waste, waterways, DCTV; FY2023+: waterways, DCTV)",3050329,2821137,229192,185990,417433,3709318,555728,34,verified in report text,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2023,Sewer,5284006,6755175,-1471169,0,-1106939,25561643,3663435,28,verified in report text,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,Water,5704538,6860301,-1155763,0,-1310575,15321862,288199,28,verified in report text,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,Solid Waste,2131107,2279555,-148448,0,-145080,1837248,845954,28,verified in report text,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,"Nonmajor (FY2016-22: solid waste, waterways, DCTV; FY2023+: waterways, DCTV)",953013,939709,13304,44000,78400,1805390,-295939,28,verified in report text,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2024,Sewer,6538873,6022706,516167,0,717337,26278980,5777826,28,verified in report text,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,Water,6829272,6512720,316552,0,134576,15456438,514172,28,verified in report text,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,Solid Waste,2127826,2508689,-380863,0,-292297,1544951,630211,28,verified in report text,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,"Nonmajor (FY2016-22: solid waste, waterways, DCTV; FY2023+: waterways, DCTV)",1049674,1160089,-110415,23879,-53714,1751676,-421329,28,verified in report text,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2025,Sewer,7355391,7545482,-190091,1443018,1364153,27643133,5383043,28,verified in report text,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,Water,7002830,6005778,997052,0,780566,16237004,421977,28,verified in report text,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,Solid Waste,2194371,2220009,-25638,0,64659,1609610,311546,28,verified in report text,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,"Nonmajor (FY2016-22: solid waste, waterways, DCTV; FY2023+: waterways, DCTV)",986138,1096757,-110619,23879,-54301,1697375,-398100,28,verified in report text,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769

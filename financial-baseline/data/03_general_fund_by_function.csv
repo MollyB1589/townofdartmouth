@@ -1,0 +1,248 @@
+fiscal_year,classification,category,basis,amount_usd,share_of_total_pct,amount_fy2026_dollars,per_capita_fy2026_dollars,source_id,validation_note
+2016,DLS Schedule A function,General government,"actual (statutory basis, as reported to DLS; unaudited)",4439322,5.6,6104862,176,DLS-SCHA-GF,
+2016,DLS Schedule A function,"Public safety (police, dispatch, inspections; fire is in separate districts)","actual (statutory basis, as reported to DLS; unaudited)",7527529,9.4,10351699,298,DLS-SCHA-GF,
+2016,DLS Schedule A function,Education,"actual (statutory basis, as reported to DLS; unaudited)",43904493,55.0,60376532,1739,DLS-SCHA-GF,
+2016,DLS Schedule A function,Public works,"actual (statutory basis, as reported to DLS; unaudited)",4911351,6.2,6753986,195,DLS-SCHA-GF,
+2016,DLS Schedule A function,Human services,"actual (statutory basis, as reported to DLS; unaudited)",1151691,1.4,1583781,46,DLS-SCHA-GF,
+2016,DLS Schedule A function,Culture and recreation,"actual (statutory basis, as reported to DLS; unaudited)",1606124,2.0,2208708,64,DLS-SCHA-GF,
+2016,DLS Schedule A function,Debt service,"actual (statutory basis, as reported to DLS; unaudited)",4506102,5.6,6196696,179,DLS-SCHA-GF,
+2016,DLS Schedule A function,"Fixed costs (pensions, health insurance, other benefits)","actual (statutory basis, as reported to DLS; unaudited)",9993126,12.5,13742336,396,DLS-SCHA-GF,
+2016,DLS Schedule A function,Intergovernmental assessments,"actual (statutory basis, as reported to DLS; unaudited)",1005058,1.3,1382135,40,DLS-SCHA-GF,
+2016,DLS Schedule A function,Other expenditures,"actual (statutory basis, as reported to DLS; unaudited)",724180,0.9,995877,29,DLS-SCHA-GF,
+2016,DLS Schedule A function,TOTAL general fund expenditures,"actual (statutory basis, as reported to DLS; unaudited)",79768976,100.0,109696612,3160,DLS-SCHA-GF,sum of functions equals reported total
+2017,DLS Schedule A function,General government,"actual (statutory basis, as reported to DLS; unaudited)",4746837,5.7,6409842,188,DLS-SCHA-GF,
+2017,DLS Schedule A function,"Public safety (police, dispatch, inspections; fire is in separate districts)","actual (statutory basis, as reported to DLS; unaudited)",8042516,9.6,10860128,318,DLS-SCHA-GF,
+2017,DLS Schedule A function,Education,"actual (statutory basis, as reported to DLS; unaudited)",46140856,55.3,62305824,1823,DLS-SCHA-GF,
+2017,DLS Schedule A function,Public works,"actual (statutory basis, as reported to DLS; unaudited)",4299868,5.2,5806282,170,DLS-SCHA-GF,
+2017,DLS Schedule A function,Human services,"actual (statutory basis, as reported to DLS; unaudited)",1312034,1.6,1771691,52,DLS-SCHA-GF,
+2017,DLS Schedule A function,Culture and recreation,"actual (statutory basis, as reported to DLS; unaudited)",1505783,1.8,2033318,60,DLS-SCHA-GF,
+2017,DLS Schedule A function,Debt service,"actual (statutory basis, as reported to DLS; unaudited)",4686238,5.6,6328013,185,DLS-SCHA-GF,
+2017,DLS Schedule A function,"Fixed costs (pensions, health insurance, other benefits)","actual (statutory basis, as reported to DLS; unaudited)",10749879,12.9,14515987,425,DLS-SCHA-GF,
+2017,DLS Schedule A function,Intergovernmental assessments,"actual (statutory basis, as reported to DLS; unaudited)",1084373,1.3,1464272,43,DLS-SCHA-GF,
+2017,DLS Schedule A function,Other expenditures,"actual (statutory basis, as reported to DLS; unaudited)",835828,1.0,1128652,33,DLS-SCHA-GF,
+2017,DLS Schedule A function,TOTAL general fund expenditures,"actual (statutory basis, as reported to DLS; unaudited)",83404212,100.0,112624008,3296,DLS-SCHA-GF,sum of functions equals reported total
+2018,DLS Schedule A function,General government,"actual (statutory basis, as reported to DLS; unaudited)",4198410,4.9,5544298,163,DLS-SCHA-GF,
+2018,DLS Schedule A function,"Public safety (police, dispatch, inspections; fire is in separate districts)","actual (statutory basis, as reported to DLS; unaudited)",7832578,9.2,10343475,303,DLS-SCHA-GF,
+2018,DLS Schedule A function,Education,"actual (statutory basis, as reported to DLS; unaudited)",47819994,56.4,63149697,1853,DLS-SCHA-GF,
+2018,DLS Schedule A function,Public works,"actual (statutory basis, as reported to DLS; unaudited)",4507705,5.3,5952745,175,DLS-SCHA-GF,
+2018,DLS Schedule A function,Human services,"actual (statutory basis, as reported to DLS; unaudited)",1134894,1.3,1498708,44,DLS-SCHA-GF,
+2018,DLS Schedule A function,Culture and recreation,"actual (statutory basis, as reported to DLS; unaudited)",1890762,2.2,2496885,73,DLS-SCHA-GF,
+2018,DLS Schedule A function,Debt service,"actual (statutory basis, as reported to DLS; unaudited)",4262381,5.0,5628777,165,DLS-SCHA-GF,
+2018,DLS Schedule A function,"Fixed costs (pensions, health insurance, other benefits)","actual (statutory basis, as reported to DLS; unaudited)",11719889,13.8,15476946,454,DLS-SCHA-GF,
+2018,DLS Schedule A function,Intergovernmental assessments,"actual (statutory basis, as reported to DLS; unaudited)",1178298,1.4,1556026,46,DLS-SCHA-GF,
+2018,DLS Schedule A function,Other expenditures,"actual (statutory basis, as reported to DLS; unaudited)",281000,0.3,371080,11,DLS-SCHA-GF,
+2018,DLS Schedule A function,TOTAL general fund expenditures,"actual (statutory basis, as reported to DLS; unaudited)",84825911,100.0,112018638,3287,DLS-SCHA-GF,sum of functions equals reported total
+2019,DLS Schedule A function,General government,"actual (statutory basis, as reported to DLS; unaudited)",4689441,5.3,6067011,177,DLS-SCHA-GF,
+2019,DLS Schedule A function,"Public safety (police, dispatch, inspections; fire is in separate districts)","actual (statutory basis, as reported to DLS; unaudited)",7960809,9.1,10299376,300,DLS-SCHA-GF,
+2019,DLS Schedule A function,Education,"actual (statutory basis, as reported to DLS; unaudited)",50227359,57.1,64982146,1894,DLS-SCHA-GF,
+2019,DLS Schedule A function,Public works,"actual (statutory basis, as reported to DLS; unaudited)",3723319,4.2,4817081,140,DLS-SCHA-GF,
+2019,DLS Schedule A function,Human services,"actual (statutory basis, as reported to DLS; unaudited)",1166050,1.3,1508589,44,DLS-SCHA-GF,
+2019,DLS Schedule A function,Culture and recreation,"actual (statutory basis, as reported to DLS; unaudited)",1758552,2.0,2275144,66,DLS-SCHA-GF,
+2019,DLS Schedule A function,Debt service,"actual (statutory basis, as reported to DLS; unaudited)",4927747,5.6,6375322,186,DLS-SCHA-GF,
+2019,DLS Schedule A function,"Fixed costs (pensions, health insurance, other benefits)","actual (statutory basis, as reported to DLS; unaudited)",12202525,13.9,15787138,460,DLS-SCHA-GF,
+2019,DLS Schedule A function,Intergovernmental assessments,"actual (statutory basis, as reported to DLS; unaudited)",1292384,1.5,1672035,49,DLS-SCHA-GF,
+2019,DLS Schedule A function,Other expenditures,"actual (statutory basis, as reported to DLS; unaudited)",0,0.0,0,0,DLS-SCHA-GF,
+2019,DLS Schedule A function,TOTAL general fund expenditures,"actual (statutory basis, as reported to DLS; unaudited)",87948186,100.0,113783842,3317,DLS-SCHA-GF,sum of functions equals reported total
+2020,DLS Schedule A function,General government,"actual (statutory basis, as reported to DLS; unaudited)",4077239,4.5,5193721,152,DLS-SCHA-GF,
+2020,DLS Schedule A function,"Public safety (police, dispatch, inspections; fire is in separate districts)","actual (statutory basis, as reported to DLS; unaudited)",7795800,8.7,9930545,290,DLS-SCHA-GF,
+2020,DLS Schedule A function,Education,"actual (statutory basis, as reported to DLS; unaudited)",50513581,56.3,64345854,1882,DLS-SCHA-GF,
+2020,DLS Schedule A function,Public works,"actual (statutory basis, as reported to DLS; unaudited)",5551084,6.2,7071153,207,DLS-SCHA-GF,
+2020,DLS Schedule A function,Human services,"actual (statutory basis, as reported to DLS; unaudited)",1229720,1.4,1566458,46,DLS-SCHA-GF,
+2020,DLS Schedule A function,Culture and recreation,"actual (statutory basis, as reported to DLS; unaudited)",1960793,2.2,2497722,73,DLS-SCHA-GF,
+2020,DLS Schedule A function,Debt service,"actual (statutory basis, as reported to DLS; unaudited)",4695641,5.2,5981461,175,DLS-SCHA-GF,
+2020,DLS Schedule A function,"Fixed costs (pensions, health insurance, other benefits)","actual (statutory basis, as reported to DLS; unaudited)",12473486,13.9,15889135,465,DLS-SCHA-GF,
+2020,DLS Schedule A function,Intergovernmental assessments,"actual (statutory basis, as reported to DLS; unaudited)",1393389,1.6,1774945,52,DLS-SCHA-GF,
+2020,DLS Schedule A function,Other expenditures,"actual (statutory basis, as reported to DLS; unaudited)",0,0.0,0,0,DLS-SCHA-GF,
+2020,DLS Schedule A function,TOTAL general fund expenditures,"actual (statutory basis, as reported to DLS; unaudited)",89690733,100.0,114250994,3342,DLS-SCHA-GF,sum of functions equals reported total
+2021,DLS Schedule A function,General government,"actual (statutory basis, as reported to DLS; unaudited)",4519922,4.8,5628076,167,DLS-SCHA-GF,
+2021,DLS Schedule A function,"Public safety (police, dispatch, inspections; fire is in separate districts)","actual (statutory basis, as reported to DLS; unaudited)",8276559,8.8,10305731,305,DLS-SCHA-GF,
+2021,DLS Schedule A function,Education,"actual (statutory basis, as reported to DLS; unaudited)",51666939,54.7,64334175,1904,DLS-SCHA-GF,
+2021,DLS Schedule A function,Public works,"actual (statutory basis, as reported to DLS; unaudited)",5799376,6.1,7221215,214,DLS-SCHA-GF,
+2021,DLS Schedule A function,Human services,"actual (statutory basis, as reported to DLS; unaudited)",1238325,1.3,1541926,46,DLS-SCHA-GF,
+2021,DLS Schedule A function,Culture and recreation,"actual (statutory basis, as reported to DLS; unaudited)",2010060,2.1,2502868,74,DLS-SCHA-GF,
+2021,DLS Schedule A function,Debt service,"actual (statutory basis, as reported to DLS; unaudited)",5096120,5.4,6345541,188,DLS-SCHA-GF,
+2021,DLS Schedule A function,"Fixed costs (pensions, health insurance, other benefits)","actual (statutory basis, as reported to DLS; unaudited)",13640763,14.4,16985083,503,DLS-SCHA-GF,
+2021,DLS Schedule A function,Intergovernmental assessments,"actual (statutory basis, as reported to DLS; unaudited)",1524578,1.6,1898360,56,DLS-SCHA-GF,
+2021,DLS Schedule A function,Other expenditures,"actual (statutory basis, as reported to DLS; unaudited)",670905,0.7,835391,25,DLS-SCHA-GF,
+2021,DLS Schedule A function,TOTAL general fund expenditures,"actual (statutory basis, as reported to DLS; unaudited)",94443547,100.0,117598368,3481,DLS-SCHA-GF,sum of functions equals reported total
+2022,DLS Schedule A function,General government,"actual (statutory basis, as reported to DLS; unaudited)",4236992,4.4,4922708,145,DLS-SCHA-GF,
+2022,DLS Schedule A function,"Public safety (police, dispatch, inspections; fire is in separate districts)","actual (statutory basis, as reported to DLS; unaudited)",8516121,8.8,9894372,291,DLS-SCHA-GF,
+2022,DLS Schedule A function,Education,"actual (statutory basis, as reported to DLS; unaudited)",53876285,55.7,62595637,1841,DLS-SCHA-GF,
+2022,DLS Schedule A function,Public works,"actual (statutory basis, as reported to DLS; unaudited)",4708907,4.9,5470998,161,DLS-SCHA-GF,
+2022,DLS Schedule A function,Human services,"actual (statutory basis, as reported to DLS; unaudited)",1306132,1.4,1517517,45,DLS-SCHA-GF,
+2022,DLS Schedule A function,Culture and recreation,"actual (statutory basis, as reported to DLS; unaudited)",2255345,2.3,2620351,77,DLS-SCHA-GF,
+2022,DLS Schedule A function,Debt service,"actual (statutory basis, as reported to DLS; unaudited)",4994047,5.2,5802285,171,DLS-SCHA-GF,
+2022,DLS Schedule A function,"Fixed costs (pensions, health insurance, other benefits)","actual (statutory basis, as reported to DLS; unaudited)",14478629,15.0,16821854,495,DLS-SCHA-GF,
+2022,DLS Schedule A function,Intergovernmental assessments,"actual (statutory basis, as reported to DLS; unaudited)",1486339,1.5,1726888,51,DLS-SCHA-GF,
+2022,DLS Schedule A function,Other expenditures,"actual (statutory basis, as reported to DLS; unaudited)",878176,0.9,1020300,30,DLS-SCHA-GF,
+2022,DLS Schedule A function,TOTAL general fund expenditures,"actual (statutory basis, as reported to DLS; unaudited)",96736973,100.0,112392910,3305,DLS-SCHA-GF,sum of functions equals reported total
+2023,DLS Schedule A function,General government,"actual (statutory basis, as reported to DLS; unaudited)",4575125,4.6,5002326,150,DLS-SCHA-GF,
+2023,DLS Schedule A function,"Public safety (police, dispatch, inspections; fire is in separate districts)","actual (statutory basis, as reported to DLS; unaudited)",9261506,9.3,10126296,303,DLS-SCHA-GF,
+2023,DLS Schedule A function,Education,"actual (statutory basis, as reported to DLS; unaudited)",56493436,57.0,61768494,1849,DLS-SCHA-GF,
+2023,DLS Schedule A function,Public works,"actual (statutory basis, as reported to DLS; unaudited)",5580449,5.6,6101522,183,DLS-SCHA-GF,
+2023,DLS Schedule A function,Human services,"actual (statutory basis, as reported to DLS; unaudited)",1372506,1.4,1500663,45,DLS-SCHA-GF,
+2023,DLS Schedule A function,Culture and recreation,"actual (statutory basis, as reported to DLS; unaudited)",1868712,1.9,2043202,61,DLS-SCHA-GF,
+2023,DLS Schedule A function,Debt service,"actual (statutory basis, as reported to DLS; unaudited)",2530788,2.6,2767100,83,DLS-SCHA-GF,
+2023,DLS Schedule A function,"Fixed costs (pensions, health insurance, other benefits)","actual (statutory basis, as reported to DLS; unaudited)",14756573,14.9,16134464,483,DLS-SCHA-GF,
+2023,DLS Schedule A function,Intergovernmental assessments,"actual (statutory basis, as reported to DLS; unaudited)",1638039,1.7,1790990,54,DLS-SCHA-GF,
+2023,DLS Schedule A function,Other expenditures,"actual (statutory basis, as reported to DLS; unaudited)",978125,1.0,1069457,32,DLS-SCHA-GF,
+2023,DLS Schedule A function,TOTAL general fund expenditures,"actual (statutory basis, as reported to DLS; unaudited)",99055259,100.0,108304515,3242,DLS-SCHA-GF,sum of functions equals reported total
+2024,DLS Schedule A function,General government,"actual (statutory basis, as reported to DLS; unaudited)",5404488,5.3,5720444,171,DLS-SCHA-GF,
+2024,DLS Schedule A function,"Public safety (police, dispatch, inspections; fire is in separate districts)","actual (statutory basis, as reported to DLS; unaudited)",8644310,8.4,9149671,274,DLS-SCHA-GF,
+2024,DLS Schedule A function,Education,"actual (statutory basis, as reported to DLS; unaudited)",57981813,56.3,61371531,1836,DLS-SCHA-GF,
+2024,DLS Schedule A function,Public works,"actual (statutory basis, as reported to DLS; unaudited)",6622195,6.4,7009340,210,DLS-SCHA-GF,
+2024,DLS Schedule A function,Human services,"actual (statutory basis, as reported to DLS; unaudited)",1302808,1.3,1378972,41,DLS-SCHA-GF,
+2024,DLS Schedule A function,Culture and recreation,"actual (statutory basis, as reported to DLS; unaudited)",2473123,2.4,2617706,78,DLS-SCHA-GF,
+2024,DLS Schedule A function,Debt service,"actual (statutory basis, as reported to DLS; unaudited)",2465058,2.4,2609170,78,DLS-SCHA-GF,
+2024,DLS Schedule A function,"Fixed costs (pensions, health insurance, other benefits)","actual (statutory basis, as reported to DLS; unaudited)",15572885,15.1,16483303,493,DLS-SCHA-GF,
+2024,DLS Schedule A function,Intergovernmental assessments,"actual (statutory basis, as reported to DLS; unaudited)",1545869,1.5,1636243,49,DLS-SCHA-GF,
+2024,DLS Schedule A function,Other expenditures,"actual (statutory basis, as reported to DLS; unaudited)",920000,0.9,973785,29,DLS-SCHA-GF,
+2024,DLS Schedule A function,TOTAL general fund expenditures,"actual (statutory basis, as reported to DLS; unaudited)",102932549,100.0,108950165,3260,DLS-SCHA-GF,sum of functions equals reported total
+2025,DLS Schedule A function,General government,"actual (statutory basis, as reported to DLS; unaudited)",5693937,5.2,5872014,172,DLS-SCHA-GF,
+2025,DLS Schedule A function,"Public safety (police, dispatch, inspections; fire is in separate districts)","actual (statutory basis, as reported to DLS; unaudited)",11081158,10.2,11427720,335,DLS-SCHA-GF,
+2025,DLS Schedule A function,Education,"actual (statutory basis, as reported to DLS; unaudited)",61147340,56.3,63059716,1847,DLS-SCHA-GF,
+2025,DLS Schedule A function,Public works,"actual (statutory basis, as reported to DLS; unaudited)",5366140,4.9,5533965,162,DLS-SCHA-GF,
+2025,DLS Schedule A function,Human services,"actual (statutory basis, as reported to DLS; unaudited)",1460151,1.3,1505817,44,DLS-SCHA-GF,
+2025,DLS Schedule A function,Culture and recreation,"actual (statutory basis, as reported to DLS; unaudited)",1774603,1.6,1830104,54,DLS-SCHA-GF,
+2025,DLS Schedule A function,Debt service,"actual (statutory basis, as reported to DLS; unaudited)",2094379,1.9,2159880,63,DLS-SCHA-GF,
+2025,DLS Schedule A function,"Fixed costs (pensions, health insurance, other benefits)","actual (statutory basis, as reported to DLS; unaudited)",17443914,16.1,17989470,527,DLS-SCHA-GF,
+2025,DLS Schedule A function,Intergovernmental assessments,"actual (statutory basis, as reported to DLS; unaudited)",1630779,1.5,1681781,49,DLS-SCHA-GF,
+2025,DLS Schedule A function,Other expenditures,"actual (statutory basis, as reported to DLS; unaudited)",920000,0.8,948773,28,DLS-SCHA-GF,
+2025,DLS Schedule A function,TOTAL general fund expenditures,"actual (statutory basis, as reported to DLS; unaudited)",108612401,100.0,112009241,3281,DLS-SCHA-GF,sum of functions equals reported total
+2026,DLS Schedule A function,General government,"actual (statutory basis, as reported to DLS; unaudited)",5930318,5.2,5930318,174,DLS-SCHA-GF,
+2026,DLS Schedule A function,"Public safety (police, dispatch, inspections; fire is in separate districts)","actual (statutory basis, as reported to DLS; unaudited)",10619882,9.4,10619882,311,DLS-SCHA-GF,
+2026,DLS Schedule A function,Education,"actual (statutory basis, as reported to DLS; unaudited)",64068105,56.7,64068105,1877,DLS-SCHA-GF,
+2026,DLS Schedule A function,Public works,"actual (statutory basis, as reported to DLS; unaudited)",5846212,5.2,5846212,171,DLS-SCHA-GF,
+2026,DLS Schedule A function,Human services,"actual (statutory basis, as reported to DLS; unaudited)",1523771,1.3,1523771,45,DLS-SCHA-GF,
+2026,DLS Schedule A function,Culture and recreation,"actual (statutory basis, as reported to DLS; unaudited)",2148072,1.9,2148072,63,DLS-SCHA-GF,
+2026,DLS Schedule A function,Debt service,"actual (statutory basis, as reported to DLS; unaudited)",1839311,1.6,1839311,54,DLS-SCHA-GF,
+2026,DLS Schedule A function,"Fixed costs (pensions, health insurance, other benefits)","actual (statutory basis, as reported to DLS; unaudited)",18512914,16.4,18512914,542,DLS-SCHA-GF,
+2026,DLS Schedule A function,Intergovernmental assessments,"actual (statutory basis, as reported to DLS; unaudited)",1704632,1.5,1704632,50,DLS-SCHA-GF,
+2026,DLS Schedule A function,Other expenditures,"actual (statutory basis, as reported to DLS; unaudited)",880000,0.8,880000,26,DLS-SCHA-GF,
+2026,DLS Schedule A function,TOTAL general fund expenditures,"actual (statutory basis, as reported to DLS; unaudited)",113073217,100.0,113073217,3312,DLS-SCHA-GF,sum of functions equals reported total
+2014,Town budget category (Schedule A operating budget document),General Government,actual,3569166,5.0,,,TOWN-SCHA-FY17,text layer; eight categories sum to the printed grand total within $1
+2014,Town budget category (Schedule A operating budget document),Public Safety,actual,6212928,8.7,,,TOWN-SCHA-FY17,text layer; eight categories sum to the printed grand total within $1
+2014,Town budget category (Schedule A operating budget document),Schools,actual,39685480,55.7,,,TOWN-SCHA-FY17,text layer; eight categories sum to the printed grand total within $1
+2014,Town budget category (Schedule A operating budget document),Public Works,actual,2809672,3.9,,,TOWN-SCHA-FY17,text layer; eight categories sum to the printed grand total within $1
+2014,Town budget category (Schedule A operating budget document),Community Services,actual,2728003,3.8,,,TOWN-SCHA-FY17,text layer; eight categories sum to the printed grand total within $1
+2014,Town budget category (Schedule A operating budget document),Debt Service,actual,4788716,6.7,,,TOWN-SCHA-FY17,text layer; eight categories sum to the printed grand total within $1
+2014,Town budget category (Schedule A operating budget document),Employee Benefits,actual,10791897,15.1,,,TOWN-SCHA-FY17,text layer; eight categories sum to the printed grand total within $1
+2014,Town budget category (Schedule A operating budget document),Property & Liability Insurance,actual,705652,1.0,,,TOWN-SCHA-FY17,text layer; eight categories sum to the printed grand total within $1
+2014,Town budget category (Schedule A operating budget document),GRAND TOTAL (Town Schedule A operating budget),actual,71291514,100.0,,,TOWN-SCHA-FY17,text layer; eight categories sum to the printed grand total within $1
+2015,Town budget category (Schedule A operating budget document),General Government,actual,3897078,5.3,,,TOWN-SCHA-FY17,text layer; eight categories sum to the printed grand total within $1
+2015,Town budget category (Schedule A operating budget document),Public Safety,actual,6327936,8.7,,,TOWN-SCHA-FY17,text layer; eight categories sum to the printed grand total within $1
+2015,Town budget category (Schedule A operating budget document),Schools,actual,40664525,55.6,,,TOWN-SCHA-FY17,text layer; eight categories sum to the printed grand total within $1
+2015,Town budget category (Schedule A operating budget document),Public Works,actual,3064195,4.2,,,TOWN-SCHA-FY17,text layer; eight categories sum to the printed grand total within $1
+2015,Town budget category (Schedule A operating budget document),Community Services,actual,2737056,3.7,,,TOWN-SCHA-FY17,text layer; eight categories sum to the printed grand total within $1
+2015,Town budget category (Schedule A operating budget document),Debt Service,actual,4821501,6.6,,,TOWN-SCHA-FY17,text layer; eight categories sum to the printed grand total within $1
+2015,Town budget category (Schedule A operating budget document),Employee Benefits,actual,10861238,14.9,,,TOWN-SCHA-FY17,text layer; eight categories sum to the printed grand total within $1
+2015,Town budget category (Schedule A operating budget document),Property & Liability Insurance,actual,702588,1.0,,,TOWN-SCHA-FY17,text layer; eight categories sum to the printed grand total within $1
+2015,Town budget category (Schedule A operating budget document),GRAND TOTAL (Town Schedule A operating budget),actual,73076116,100.0,,,TOWN-SCHA-FY17,text layer; eight categories sum to the printed grand total within $1
+2016,Town budget category (Schedule A operating budget document),General Government,actual,3603824,4.8,4955903,143,TOWN-SCHA-FY19,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2016,Town budget category (Schedule A operating budget document),Public Safety,actual,7063333,9.5,9713347,280,TOWN-SCHA-FY19,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2016,Town budget category (Schedule A operating budget document),Schools,actual,42634659,57.4,58630283,1689,TOWN-SCHA-FY19,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2016,Town budget category (Schedule A operating budget document),Public Works,actual,2916182,3.9,4010272,116,TOWN-SCHA-FY19,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2016,Town budget category (Schedule A operating budget document),Community Services,actual,2480883,3.3,3411658,98,TOWN-SCHA-FY19,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2016,Town budget category (Schedule A operating budget document),Debt Service,actual,4506102,6.1,6196696,179,TOWN-SCHA-FY19,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2016,Town budget category (Schedule A operating budget document),Employee Benefits,actual,10396210,14.0,14296649,412,TOWN-SCHA-FY19,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2016,Town budget category (Schedule A operating budget document),Property & Liability Insurance,actual,724180,1.0,995876,29,TOWN-SCHA-FY19,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2016,Town budget category (Schedule A operating budget document),GRAND TOTAL (Town Schedule A operating budget),actual,74325373,100.0,102210684,2944,TOWN-SCHA-FY19,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2017,Town budget category (Schedule A operating budget document),General Government,actual,3630325,4.7,4902172,143,TOWN-SCHA-FY19,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2017,Town budget category (Schedule A operating budget document),Public Safety,actual,7480366,9.6,10101035,296,TOWN-SCHA-FY19,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2017,Town budget category (Schedule A operating budget document),Schools,actual,44646849,57.4,60288407,1764,TOWN-SCHA-FY19,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2017,Town budget category (Schedule A operating budget document),Public Works,actual,2825964,3.6,3816011,112,TOWN-SCHA-FY19,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2017,Town budget category (Schedule A operating budget document),Community Services,actual,2480495,3.2,3349511,98,TOWN-SCHA-FY19,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2017,Town budget category (Schedule A operating budget document),Debt Service,actual,4686238,6.0,6328013,185,TOWN-SCHA-FY19,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2017,Town budget category (Schedule A operating budget document),Employee Benefits,actual,11224261,14.4,15156563,444,TOWN-SCHA-FY19,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2017,Town budget category (Schedule A operating budget document),Property & Liability Insurance,actual,835823,1.1,1128644,33,TOWN-SCHA-FY19,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2017,Town budget category (Schedule A operating budget document),GRAND TOTAL (Town Schedule A operating budget),actual,77810321,100.0,105070356,3075,TOWN-SCHA-FY19,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2018,Town budget category (Schedule A operating budget document),General Government,actual,3684644,4.6,4865834,143,TOWN-SCHA-FY21,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2018,Town budget category (Schedule A operating budget document),Public Safety,actual,7521643,9.4,9932863,291,TOWN-SCHA-FY21,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2018,Town budget category (Schedule A operating budget document),Schools,actual,46214280,57.7,61029238,1791,TOWN-SCHA-FY21,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2018,Town budget category (Schedule A operating budget document),Public Works,actual,3003348,3.8,3966135,116,TOWN-SCHA-FY21,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2018,Town budget category (Schedule A operating budget document),Community Services,actual,2662387,3.3,3515872,103,TOWN-SCHA-FY21,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2018,Town budget category (Schedule A operating budget document),Debt Service,actual,4264491,5.3,5631564,165,TOWN-SCHA-FY21,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2018,Town budget category (Schedule A operating budget document),Employee Benefits,actual,11903659,14.9,15719626,461,TOWN-SCHA-FY21,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2018,Town budget category (Schedule A operating budget document),Property & Liability Insurance,actual,795325,1.0,1050284,31,TOWN-SCHA-FY21,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2018,Town budget category (Schedule A operating budget document),GRAND TOTAL (Town Schedule A operating budget),actual,80049778,100.0,105711415,3102,TOWN-SCHA-FY21,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2019,Town budget category (Schedule A operating budget document),General Government,actual,3610100,4.4,4670603,136,TOWN-SCHA-FY21,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2019,Town budget category (Schedule A operating budget document),Public Safety,actual,7496698,9.1,9698928,283,TOWN-SCHA-FY21,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2019,Town budget category (Schedule A operating budget document),Schools,actual,47739238,57.6,61763115,1800,TOWN-SCHA-FY21,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2019,Town budget category (Schedule A operating budget document),Public Works,actual,3064298,3.7,3964466,116,TOWN-SCHA-FY21,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2019,Town budget category (Schedule A operating budget document),Community Services,actual,2718006,3.3,3516447,102,TOWN-SCHA-FY21,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2019,Town budget category (Schedule A operating budget document),Debt Service,actual,4929610,6.0,6377733,186,TOWN-SCHA-FY21,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2019,Town budget category (Schedule A operating budget document),Employee Benefits,actual,12480980,15.1,16147393,471,TOWN-SCHA-FY21,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2019,Town budget category (Schedule A operating budget document),Property & Liability Insurance,actual,780551,0.9,1009845,29,TOWN-SCHA-FY21,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2019,Town budget category (Schedule A operating budget document),GRAND TOTAL (Town Schedule A operating budget),actual,82819481,100.0,107148529,3123,TOWN-SCHA-FY21,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2020,Town budget category (Schedule A operating budget document),General Government,actual,3743404,4.4,4768471,139,TOWN-SCHA-FY23,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2020,Town budget category (Schedule A operating budget document),Public Safety,actual,7313619,8.7,9316327,273,TOWN-SCHA-FY23,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2020,Town budget category (Schedule A operating budget document),Schools,actual,48842574,57.8,62217271,1820,TOWN-SCHA-FY23,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2020,Town budget category (Schedule A operating budget document),Public Works,actual,3255994,3.9,4147592,121,TOWN-SCHA-FY23,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2020,Town budget category (Schedule A operating budget document),Community Services,actual,2651020,3.1,3376956,99,TOWN-SCHA-FY23,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2020,Town budget category (Schedule A operating budget document),Debt Service,actual,5206017,6.2,6631594,194,TOWN-SCHA-FY23,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2020,Town budget category (Schedule A operating budget document),Employee Benefits,actual,12659433,15.0,16126000,472,TOWN-SCHA-FY23,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2020,Town budget category (Schedule A operating budget document),Property & Liability Insurance,actual,789148,0.9,1005243,29,TOWN-SCHA-FY23,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2020,Town budget category (Schedule A operating budget document),GRAND TOTAL (Town Schedule A operating budget),actual,84461209,100.0,107589455,3147,TOWN-SCHA-FY23,read from scanned image (OCR plus visual check); eight categories sum to the printed grand total within $1
+2021,Town budget category (Schedule A operating budget document),General Government,actual,3688900,4.2,4593311,136,TOWN-SCHA-FY24,text layer; also matches scanned FY2023 document; eight categories sum to the printed grand total within $1
+2021,Town budget category (Schedule A operating budget document),Public Safety,actual,7887135,9.0,9820831,291,TOWN-SCHA-FY24,text layer; also matches scanned FY2023 document; eight categories sum to the printed grand total within $1
+2021,Town budget category (Schedule A operating budget document),Schools,actual,50181823,57.6,62484953,1850,TOWN-SCHA-FY24,text layer; also matches scanned FY2023 document; eight categories sum to the printed grand total within $1
+2021,Town budget category (Schedule A operating budget document),Public Works,actual,3290618,3.8,4097382,121,TOWN-SCHA-FY24,text layer; also matches scanned FY2023 document; eight categories sum to the printed grand total within $1
+2021,Town budget category (Schedule A operating budget document),Community Services,actual,2775974,3.2,3456563,102,TOWN-SCHA-FY24,text layer; also matches scanned FY2023 document; eight categories sum to the printed grand total within $1
+2021,Town budget category (Schedule A operating budget document),Debt Service,actual,5096121,5.8,6345542,188,TOWN-SCHA-FY24,text layer; also matches scanned FY2023 document; eight categories sum to the printed grand total within $1
+2021,Town budget category (Schedule A operating budget document),Employee Benefits,actual,13385015,15.4,16666633,493,TOWN-SCHA-FY24,text layer; also matches scanned FY2023 document; eight categories sum to the printed grand total within $1
+2021,Town budget category (Schedule A operating budget document),Property & Liability Insurance,actual,886517,1.0,1103865,33,TOWN-SCHA-FY24,text layer; also matches scanned FY2023 document; eight categories sum to the printed grand total within $1
+2021,Town budget category (Schedule A operating budget document),GRAND TOTAL (Town Schedule A operating budget),actual,87192102,100.0,108569079,3214,TOWN-SCHA-FY24,text layer; also matches scanned FY2023 document; eight categories sum to the printed grand total within $1
+2022,Town budget category (Schedule A operating budget document),General Government,actual,3958531,4.3,4599181,135,TOWN-BUD-FY25,text layer; eight categories sum to the printed grand total within $1
+2022,Town budget category (Schedule A operating budget document),Public Safety,actual,8403179,9.2,9763152,287,TOWN-BUD-FY25,text layer; eight categories sum to the printed grand total within $1
+2022,Town budget category (Schedule A operating budget document),Schools,actual,52555101,57.4,61060633,1796,TOWN-BUD-FY25,text layer; eight categories sum to the printed grand total within $1
+2022,Town budget category (Schedule A operating budget document),Public Works,actual,3686430,4.0,4283042,126,TOWN-BUD-FY25,text layer; eight categories sum to the printed grand total within $1
+2022,Town budget category (Schedule A operating budget document),Community Services,actual,3035729,3.3,3527032,104,TOWN-BUD-FY25,text layer; eight categories sum to the printed grand total within $1
+2022,Town budget category (Schedule A operating budget document),Debt Service,actual,4994047,5.5,5802285,171,TOWN-BUD-FY25,text layer; eight categories sum to the printed grand total within $1
+2022,Town budget category (Schedule A operating budget document),Employee Benefits,actual,14019316,15.3,16288206,479,TOWN-BUD-FY25,text layer; eight categories sum to the printed grand total within $1
+2022,Town budget category (Schedule A operating budget document),Property & Liability Insurance,actual,894983,1.0,1039827,31,TOWN-BUD-FY25,text layer; eight categories sum to the printed grand total within $1
+2022,Town budget category (Schedule A operating budget document),GRAND TOTAL (Town Schedule A operating budget),actual,91547317,100.0,106363358,3128,TOWN-BUD-FY25,text layer; eight categories sum to the printed grand total within $1
+2023,Town budget category (Schedule A operating budget document),General Government,actual,4227433,4.5,4622169,138,TOWN-BUD-FY26,text layer; eight categories sum to the printed grand total within $1
+2023,Town budget category (Schedule A operating budget document),Public Safety,actual,8740646,9.4,9556801,286,TOWN-BUD-FY26,text layer; eight categories sum to the printed grand total within $1
+2023,Town budget category (Schedule A operating budget document),Schools,actual,55421764,59.6,60596755,1814,TOWN-BUD-FY26,text layer; eight categories sum to the printed grand total within $1
+2023,Town budget category (Schedule A operating budget document),Public Works,actual,3282652,3.5,3589169,107,TOWN-BUD-FY26,text layer; eight categories sum to the printed grand total within $1
+2023,Town budget category (Schedule A operating budget document),Community Services,actual,3117834,3.4,3408960,102,TOWN-BUD-FY26,text layer; eight categories sum to the printed grand total within $1
+2023,Town budget category (Schedule A operating budget document),Debt Service,actual,2530788,2.7,2767100,83,TOWN-BUD-FY26,text layer; eight categories sum to the printed grand total within $1
+2023,Town budget category (Schedule A operating budget document),Employee Benefits,actual,14733271,15.8,16108986,482,TOWN-BUD-FY26,text layer; eight categories sum to the printed grand total within $1
+2023,Town budget category (Schedule A operating budget document),Property & Liability Insurance,actual,1001423,1.1,1094931,33,TOWN-BUD-FY26,text layer; eight categories sum to the printed grand total within $1
+2023,Town budget category (Schedule A operating budget document),GRAND TOTAL (Town Schedule A operating budget),actual,93055811,100.0,101744870,3046,TOWN-BUD-FY26,text layer; eight categories sum to the printed grand total within $1
+2024,Town budget category (Schedule A operating budget document),General Government,actual,4745707,4.9,5023149,150,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2024,Town budget category (Schedule A operating budget document),Public Safety,actual,8573406,8.9,9074622,272,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2024,Town budget category (Schedule A operating budget document),Schools,actual,57166292,59.3,60508332,1811,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2024,Town budget category (Schedule A operating budget document),Public Works,actual,3753803,3.9,3973256,119,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2024,Town budget category (Schedule A operating budget document),Community Services,actual,3141077,3.3,3324710,99,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2024,Town budget category (Schedule A operating budget document),Debt Service,actual,2465058,2.6,2609169,78,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2024,Town budget category (Schedule A operating budget document),Employee Benefits,actual,15376751,16.0,16275702,487,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2024,Town budget category (Schedule A operating budget document),Property & Liability Insurance,actual,1116135,1.2,1181386,35,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2024,Town budget category (Schedule A operating budget document),GRAND TOTAL (Town Schedule A operating budget),actual,96338227,100.0,101970327,3051,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2025,Town budget category (Schedule A operating budget document),General Government,actual,5305286,5.2,5471209,160,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2025,Town budget category (Schedule A operating budget document),Public Safety,actual,9634985,9.5,9936318,291,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2025,Town budget category (Schedule A operating budget document),Schools,actual,59331956,58.4,61187556,1792,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2025,Town budget category (Schedule A operating budget document),Public Works,actual,3693341,3.6,3808850,112,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2025,Town budget category (Schedule A operating budget document),Community Services,actual,3156638,3.1,3255361,95,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2025,Town budget category (Schedule A operating budget document),Debt Service,actual,2094379,2.1,2159880,63,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2025,Town budget category (Schedule A operating budget document),Employee Benefits,actual,17144814,16.9,17681016,518,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2025,Town budget category (Schedule A operating budget document),Property & Liability Insurance,actual,1231366,1.2,1269877,37,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2025,Town budget category (Schedule A operating budget document),GRAND TOTAL (Town Schedule A operating budget),actual,101592765,100.0,104770066,3069,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2026,Town budget category (Schedule A operating budget document),General Government,budget (revised),6155968,5.7,6155968,180,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2026,Town budget category (Schedule A operating budget document),Public Safety,budget (revised),10814318,10.0,10814318,317,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2026,Town budget category (Schedule A operating budget document),Schools,budget (revised),61988512,57.1,61988512,1816,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2026,Town budget category (Schedule A operating budget document),Public Works,budget (revised),4495032,4.1,4495032,132,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2026,Town budget category (Schedule A operating budget document),Community Services,budget (revised),3554332,3.3,3554332,104,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2026,Town budget category (Schedule A operating budget document),Debt Service,budget (revised),2101164,1.9,2101164,62,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2026,Town budget category (Schedule A operating budget document),Employee Benefits,budget (revised),18070649,16.7,18070649,529,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2026,Town budget category (Schedule A operating budget document),Property & Liability Insurance,budget (revised),1320057,1.2,1320057,39,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2026,Town budget category (Schedule A operating budget document),GRAND TOTAL (Town Schedule A operating budget),budget (revised),108500032,100.0,108500032,3178,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2027,Town budget category (Schedule A operating budget document),General Government,"budget (Finance Committee recommendation, adopted June 2, 2026)",6663996,5.9,,,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2027,Town budget category (Schedule A operating budget document),Public Safety,"budget (Finance Committee recommendation, adopted June 2, 2026)",11158382,9.8,,,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2027,Town budget category (Schedule A operating budget document),Schools,"budget (Finance Committee recommendation, adopted June 2, 2026)",64605917,57.0,,,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2027,Town budget category (Schedule A operating budget document),Public Works,"budget (Finance Committee recommendation, adopted June 2, 2026)",4748757,4.2,,,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2027,Town budget category (Schedule A operating budget document),Community Services,"budget (Finance Committee recommendation, adopted June 2, 2026)",3609114,3.2,,,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2027,Town budget category (Schedule A operating budget document),Debt Service,"budget (Finance Committee recommendation, adopted June 2, 2026)",1919896,1.7,,,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2027,Town budget category (Schedule A operating budget document),Employee Benefits,"budget (Finance Committee recommendation, adopted June 2, 2026)",19255072,17.0,,,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2027,Town budget category (Schedule A operating budget document),Property & Liability Insurance,"budget (Finance Committee recommendation, adopted June 2, 2026)",1428381,1.3,,,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1
+2027,Town budget category (Schedule A operating budget document),GRAND TOTAL (Town Schedule A operating budget),"budget (Finance Committee recommendation, adopted June 2, 2026)",113389515,100.0,,,TOWN-BUD-FY27,text layer; eight categories sum to the printed grand total within $1

@@ -1,0 +1,444 @@
+fiscal_year,item,value,pdf_page,text_match_check,report_pdf_url
+2016,net_position_total,95340117,27,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,net_position_governmental,47099917,27,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,net_position_business_type,48240200,27,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,unrestricted_net_position_governmental,-33920012,27,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,general_fund_total_fund_balance,18975449,30,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,general_fund_unassigned_fund_balance,12636227,30,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,general_fund_committed,5478165,30,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,general_fund_assigned,695419,30,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,general_fund_restricted,159515,30,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,general_fund_total_revenues,79834751,32,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,general_fund_total_expenditures,77811747,32,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,general_fund_net_change_in_fund_balance,1361675,32,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,bonds_outstanding_total,57096212,24,literal value found on this page (page corrected by text search),https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,bonds_outstanding_governmental,25187061,57,literal value found on this page (page corrected by text search),https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,net_pension_liability_total,41503714,78,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,pension_plan_funded_ratio_pct,62.9,78,literal percentage found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,total_opeb_liability,49300871,65,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,opeb_plan_fiduciary_net_position,1106690,65,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,opeb_discount_rate_pct,4,66,literal percentage found on this page (page corrected by text search),https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,opeb_employer_contribution,1651041,65,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,opeb_actuarially_determined_contribution,5371098,65,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,gf_expenditure: General government,4185899,32,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,gf_expenditure: Public safety,7568757,32,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,gf_expenditure: Education,43904493,32,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,gf_expenditure: Public works,4902906,32,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,gf_expenditure: Health and human services,1151691,32,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,gf_expenditure: Culture and recreation,1589177,32,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,gf_expenditure: Employee benefits,8997664,32,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,gf_expenditure: Debt service,4506102,32,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,gf_expenditure: Intergovernmental,1005058,32,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,gf_revenue: Property taxes,55887103,32,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,gf_revenue: Excise taxes,5567835,32,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,"gf_revenue: Penalties, interest and other taxes",274971,32,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,gf_revenue: Departmental,561482,32,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,gf_revenue: Licenses and permits,1113343,32,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,gf_revenue: Fines and forfeitures,107665,32,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,gf_revenue: Intergovernmental,14914927,32,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,gf_revenue: Investment income,87891,32,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,gf_revenue: Contributions,0,32,zero or non-numeric; not text-checked,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,gf_revenue: Miscellaneous,1319534,32,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,budgetary_basis_final_budget_total_revenues,79371752,34,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,budgetary_basis_actual_total_revenues,82658926,34,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,budgetary_basis_final_budget_total_expenditures,84840379,34,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2016,budgetary_basis_actual_total_expenditures,82431283,34,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2016-06-CENSUS-0000148019
+2017,net_position_total,96535569,30,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,net_position_governmental,48136165,30,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,net_position_business_type,48399404,30,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,unrestricted_net_position_governmental,-37194415,30,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,general_fund_total_fund_balance,19983111,33,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,general_fund_unassigned_fund_balance,12627108,33,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,general_fund_committed,6648856,33,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,general_fund_assigned,509350,33,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,general_fund_restricted,191674,33,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,general_fund_total_revenues,91124272,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,general_fund_total_expenditures,90410168,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,general_fund_net_change_in_fund_balance,1007662,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,bonds_outstanding_total,50417214,26,literal value found on this page (page corrected by text search),https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,bonds_outstanding_governmental,21290550,60,literal value found on this page (page corrected by text search),https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,net_pension_liability_total,41185090,82,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,pension_plan_funded_ratio_pct,64.17,82,literal percentage found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,total_opeb_liability,73795054,86,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,opeb_plan_fiduciary_net_position,1808459,86,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,opeb_discount_rate_pct,3.25,80,literal percentage found on this page (page corrected by text search),https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,opeb_employer_contribution,2243050,86,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,opeb_actuarially_determined_contribution,6362469,86,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,gf_expenditure: General government,4455114,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,gf_expenditure: Public safety,8240568,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,gf_expenditure: Education,55742323,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,gf_expenditure: Public works,3520027,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,gf_expenditure: Health and human services,1312035,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,gf_expenditure: Culture and recreation,1505786,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,gf_expenditure: Employee benefits,9883567,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,gf_expenditure: Debt service,4666375,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,gf_expenditure: Intergovernmental,1084373,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,gf_revenue: Property taxes,57868199,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,gf_revenue: Excise taxes,5904552,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,"gf_revenue: Penalties, interest, and other taxes",301901,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,gf_revenue: Departmental,666506,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,gf_revenue: Licenses and permits,1028405,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,gf_revenue: Fines and forfeitures,104569,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,gf_revenue: Intergovernmental,24038091,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,gf_revenue: Investment income,115165,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,gf_revenue: Contributions,0,35,zero or non-numeric; not text-checked,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,gf_revenue: Miscellaneous,1096884,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,budgetary_basis_final_budget_total_revenues,82273661,37,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,budgetary_basis_actual_total_revenues,85112626,37,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,budgetary_basis_final_budget_total_expenditures,87465732,37,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2017,budgetary_basis_actual_total_expenditures,84852158,37,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2017-06-CENSUS-0000148019
+2018,net_position_total,64554054,30,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,net_position_governmental,15846042,30,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,net_position_business_type,48708012,30,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,unrestricted_net_position_governmental,-77595419,30,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,general_fund_total_fund_balance,20588230,33,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,general_fund_unassigned_fund_balance,12663115,33,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,general_fund_committed,7294397,33,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,general_fund_assigned,302266,33,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,general_fund_restricted,322279,33,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,general_fund_total_revenues,89712555,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,general_fund_total_expenditures,88151028,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,general_fund_net_change_in_fund_balance,605119,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,bonds_outstanding_total,57970775,26,literal value found on this page (page corrected by text search),https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,bonds_outstanding_governmental,30690171,63,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,net_pension_liability_total,38493899,83,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,pension_plan_funded_ratio_pct,68.6,83,literal percentage found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,total_opeb_liability,59414166,86,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,opeb_plan_fiduciary_net_position,2087150,86,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,opeb_discount_rate_pct,5,79,literal percentage found on this page (page corrected by text search),https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,opeb_employer_contribution,2403319,86,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,opeb_actuarially_determined_contribution,5430029,86,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,gf_expenditure: General government,4469470,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,gf_expenditure: Public safety,7952199,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,gf_expenditure: Education,52835483,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,gf_expenditure: Public works,3704006,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,gf_expenditure: Health and human services,1134895,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,gf_expenditure: Culture and recreation,1890764,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,gf_expenditure: Employee benefits,10713681,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,gf_expenditure: Debt service,4272232,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,gf_expenditure: Intergovernmental,1178298,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,gf_revenue: Property taxes,60288332,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,gf_revenue: Excise taxes,6063504,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,"gf_revenue: Penalties, interest, and other taxes",404151,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,gf_revenue: Departmental,647343,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,gf_revenue: Licenses and permits,945651,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,gf_revenue: Fines and forfeitures,120326,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,gf_revenue: Intergovernmental,19956565,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,gf_revenue: Investment income (loss),58709,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,gf_revenue: Contributions,0,35,zero or non-numeric; not text-checked,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,gf_revenue: Miscellaneous,1227974,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,budgetary_basis_final_budget_total_revenues,84641625,37,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,budgetary_basis_actual_total_revenues,87873495,37,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,budgetary_basis_final_budget_total_expenditures,90193058,37,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2018,budgetary_basis_actual_total_expenditures,87677006,37,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2018-06-CENSUS-0000148019
+2019,net_position_total,76021026,30,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,net_position_governmental,26471846,30,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,net_position_business_type,49549180,30,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,unrestricted_net_position_governmental,-77077654,30,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,general_fund_total_fund_balance,23330209,33,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,general_fund_unassigned_fund_balance,15506710,33,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,general_fund_committed,7133157,33,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,general_fund_assigned,370745,33,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,general_fund_restricted,313424,33,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,general_fund_total_revenues,94499807,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,general_fund_total_expenditures,91352377,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,general_fund_net_change_in_fund_balance,2741979,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,bonds_outstanding_total,51950925,26,literal value found on this page (page corrected by text search),https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,bonds_outstanding_governmental,26774290,34,literal value found on this page (page corrected by text search),https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,net_pension_liability_total,45692014,86,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,pension_plan_funded_ratio_pct,63.48,86,literal percentage found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,total_opeb_liability,66109536,82,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,opeb_plan_fiduciary_net_position,2718352,82,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,opeb_discount_rate_pct,6,82,literal percentage found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,opeb_employer_contribution,2872360,82,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,opeb_actuarially_determined_contribution,4678541,89,literal value found on this page (page corrected by text search),https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,gf_expenditure: General government,4970654,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,gf_expenditure: Public safety,8106179,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,gf_expenditure: Education,55481018,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,gf_expenditure: Public works,2934067,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,gf_expenditure: Health and human services,1166050,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,gf_expenditure: Culture and recreation,1758553,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,gf_expenditure: Employee benefits,10713862,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,gf_expenditure: Debt service,4929610,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,gf_expenditure: Intergovernmental,1292384,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,gf_revenue: Property taxes,63361218,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,gf_revenue: Excise taxes,6203643,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,"gf_revenue: Penalties, interest, and other taxes",301239,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,gf_revenue: Departmental,678284,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,gf_revenue: Licenses and permits,1129330,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,gf_revenue: Fines and forfeitures,101518,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,gf_revenue: Intergovernmental,20794099,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,gf_revenue: Investment income,553595,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,gf_revenue: Energy contracts and rebates,1014195,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,gf_revenue: Miscellaneous,362686,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,budgetary_basis_final_budget_total_revenues,85113496,37,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,budgetary_basis_actual_total_revenues,88984286,37,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,budgetary_basis_final_budget_total_expenditures,92128265,37,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2019,budgetary_basis_actual_total_expenditures,88847100,37,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2019-06-CENSUS-0000148019
+2020,net_position_total,81581884,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,net_position_governmental,32823415,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,net_position_business_type,48758469,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,unrestricted_net_position_governmental,-76672387,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,general_fund_total_fund_balance,25393883,34,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,general_fund_unassigned_fund_balance,15536598,34,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,general_fund_committed,8942227,34,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,general_fund_assigned,527445,34,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,general_fund_restricted,387613,34,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,general_fund_total_revenues,96163352,36,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,general_fund_total_expenditures,93963000,36,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,general_fund_net_change_in_fund_balance,2063674,36,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,bonds_outstanding_total,47672807,26,literal value found on this page (page corrected by text search),https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,bonds_outstanding_governmental,22982959,64,literal value found on this page (page corrected by text search),https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,net_pension_liability_total,56434697,87,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,pension_plan_funded_ratio_pct,61.25,87,literal percentage found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,total_opeb_liability,69103325,80,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,opeb_plan_fiduciary_net_position,3359135,80,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,opeb_discount_rate_pct,6,80,literal percentage found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,opeb_employer_contribution,3144497,81,literal value found on this page (page corrected by text search),https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,opeb_actuarially_determined_contribution,4842831,90,literal value found on this page (page corrected by text search),https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,gf_expenditure: General government,4372803,36,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,gf_expenditure: Public safety,7957510,36,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,gf_expenditure: Education,56189961,36,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,gf_expenditure: Public works,4768253,36,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,gf_expenditure: Health and human services,1229721,36,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,gf_expenditure: Culture and recreation,1960727,36,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,gf_expenditure: Employee benefits,11384619,36,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,gf_expenditure: Debt service - Principal,3758000,36,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,gf_expenditure: Debt service - Interest,948017,36,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,gf_expenditure: Intergovernmental,1393389,36,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,gf_revenue: Property taxes,64960185,36,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,gf_revenue: Excises,5985845,36,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,"gf_revenue: Penalties, interest, and other taxes",323994,36,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,gf_revenue: Departmental,576613,36,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,gf_revenue: Licenses and permits,902023,36,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,gf_revenue: Fines and forfeitures,106117,36,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,gf_revenue: Intergovernmental,21303317,36,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,gf_revenue: Investment income,529625,36,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,gf_revenue: Energy contracts and rebates,1011640,36,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,gf_revenue: Miscellaneous,463993,36,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,budgetary_basis_final_budget_total_revenues,87481421,85,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,budgetary_basis_actual_total_revenues,89994923,85,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,budgetary_basis_final_budget_total_expenditures,101028634,85,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2020,budgetary_basis_actual_total_expenditures,97561706,85,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2020-06-CENSUS-0000148019
+2021,net_position_total,83072251,30,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,net_position_governmental,35701660,30,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,net_position_business_type,47370591,30,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,unrestricted_net_position_governmental,-80974756,30,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,general_fund_total_fund_balance,25391225,33,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,general_fund_unassigned_fund_balance,14157688,33,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,general_fund_committed,10202675,33,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,general_fund_assigned,667106,33,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,general_fund_restricted,363756,33,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,general_fund_total_revenues,97753867,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,general_fund_total_expenditures,97258586,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,general_fund_net_change_in_fund_balance,-2658,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,bonds_outstanding_total,41931838,29,literal value found on this page (page corrected by text search),https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,bonds_outstanding_governmental,19422628,65,literal value found on this page (page corrected by text search),https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,net_pension_liability_total,53279470,89,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,pension_plan_funded_ratio_pct,65.24,89,literal percentage found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,total_opeb_liability,77311469,83,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,opeb_plan_fiduciary_net_position,4722417,83,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,opeb_discount_rate_pct,6.03,83,literal percentage found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,opeb_employer_contribution,3363759,83,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,opeb_actuarially_determined_contribution,5229717,92,literal value found on this page (page corrected by text search),https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,gf_expenditure: General government,4979292,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,gf_expenditure: Public safety,8354710,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,gf_expenditure: Education,57762558,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,gf_expenditure: Public works,4998997,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,gf_expenditure: Health and human services,1237960,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,gf_expenditure: Culture and recreation,2009976,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,gf_expenditure: Employee benefits,12044394,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,gf_expenditure: Debt service - Principal,3527000,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,gf_expenditure: Debt service - Interest,819121,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,gf_expenditure: Intergovernmental,1524578,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,gf_revenue: Property taxes,67096083,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,gf_revenue: Excises,6022007,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,"gf_revenue: Penalties, interest, and other taxes",331337,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,gf_revenue: Departmental,578674,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,gf_revenue: Licenses and permits,967833,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,gf_revenue: Fines and forfeitures,114259,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,gf_revenue: Intergovernmental,21469914,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,gf_revenue: Investment income,223873,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,gf_revenue: Energy contracts and rebates,941565,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,gf_revenue: Miscellaneous,8322,35,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,budgetary_basis_final_budget_total_revenues,90244734,87,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,budgetary_basis_actual_total_revenues,91449960,87,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,budgetary_basis_final_budget_total_expenditures,104428643,87,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2021,budgetary_basis_actual_total_expenditures,100598555,87,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2021-06-GSAFAC-0000350357
+2022,net_position_total,93276610,26,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,net_position_governmental,46266273,26,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,net_position_business_type,47010337,26,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,unrestricted_net_position_governmental,-77363651,26,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,general_fund_total_fund_balance,28684810,29,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,general_fund_unassigned_fund_balance,16422822,29,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,general_fund_committed,11570973,29,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,general_fund_assigned,407610,29,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,general_fund_restricted,283405,29,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,general_fund_total_revenues,102704875,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,general_fund_total_expenditures,98725246,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,general_fund_net_change_in_fund_balance,3293585,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,bonds_outstanding_total,46110078,25,literal value found on this page (page corrected by text search),https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,bonds_outstanding_governmental,20631546,59,literal value found on this page (page corrected by text search),https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,net_pension_liability_total,43943242,65,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,pension_plan_funded_ratio_pct,71.6,81,literal percentage found on this page (page corrected by text search),https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,total_opeb_liability,79796764,75,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,opeb_plan_fiduciary_net_position,5275125,75,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,opeb_discount_rate_pct,6.15,75,literal percentage found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,opeb_employer_contribution,3653986,75,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,opeb_actuarially_determined_contribution,5453452,84,literal value found on this page (page corrected by text search),https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,gf_expenditure: General government,4643403,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,gf_expenditure: Public safety,8681208,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,gf_expenditure: Education,60620652,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,gf_expenditure: Public works,3810898,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,gf_expenditure: Health and human services,1306137,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,gf_expenditure: Culture and recreation,2255350,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,gf_expenditure: Employee benefits,11752212,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,gf_expenditure: Debt service: Principal,3492000,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,gf_expenditure: Debt service: Interest,677047,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,gf_expenditure: Intergovernmental,1486339,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,gf_revenue: Property taxes,69503038,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,gf_revenue: Excises,6481439,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,"gf_revenue: Penalties, interest, and other taxes",339443,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,gf_revenue: Departmental,662437,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,gf_revenue: Licenses and permits,1980312,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,gf_revenue: Fines and forfeitures,192036,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,gf_revenue: Intergovernmental,22907321,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,gf_revenue: Investment income (loss),-297385,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,gf_revenue: Energy contracts and rebates,901158,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,gf_revenue: Miscellaneous,35076,31,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,budgetary_basis_final_budget_total_revenues,93810476,79,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,budgetary_basis_actual_total_revenues,96296730,79,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,budgetary_basis_final_budget_total_expenditures,108353014,79,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2022,budgetary_basis_actual_total_expenditures,105576915,79,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2022-06-GSAFAC-0000350403
+2023,net_position_total,93860180,19,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,net_position_governmental,49334037,19,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,net_position_business_type,44526143,19,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,unrestricted_net_position_governmental,-76386153,19,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,general_fund_total_fund_balance,33172045,22,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,general_fund_unassigned_fund_balance,18622130,22,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,general_fund_committed,13731128,22,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,general_fund_assigned,132259,22,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,general_fund_restricted,686528,22,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,general_fund_total_revenues,108213836,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,general_fund_total_expenditures,103899832,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,general_fund_net_change_in_fund_balance,4487235,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,bonds_outstanding_total,42852526,17,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,bonds_outstanding_governmental,18692044,17,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,net_pension_liability_total,61642495,79,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,pension_plan_funded_ratio_pct,61.8,79,literal percentage found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,total_opeb_liability,77219200,75,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,opeb_plan_fiduciary_net_position,6620501,75,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,opeb_discount_rate_pct,5.56,75,literal percentage found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,opeb_employer_contribution,3855178,75,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,opeb_actuarially_determined_contribution,5021514,82,literal value found on this page (page corrected by text search),https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,gf_expenditure: General government,5083689,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,gf_expenditure: Public safety,9261505,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,gf_expenditure: Education,64572108,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,gf_expenditure: Public works,4673831,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,gf_expenditure: Health and human services,1372510,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,gf_expenditure: Culture and recreation,1869411,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,gf_expenditure: Employee benefits,12897951,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,gf_expenditure: Debt service - Principal,1887000,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,gf_expenditure: Debt service - Interest,643788,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,gf_expenditure: Intergovernmental,1638039,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,gf_revenue: Property taxes,72094282,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,gf_revenue: Excises,6543452,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,"gf_revenue: Penalties, interest, and other taxes",335848,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,gf_revenue: Departmental,704482,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,gf_revenue: Licenses and permits,2038076,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,gf_revenue: Intergovernmental,24233738,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,gf_revenue: Investment income,691781,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,gf_revenue: Energy contracts and rebates,1294186,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,gf_revenue: Miscellaneous,277991,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,budgetary_basis_final_budget_total_revenues,97416790,83,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,budgetary_basis_actual_total_revenues,100046292,83,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,budgetary_basis_final_budget_total_expenditures,114311513,83,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2023,budgetary_basis_actual_total_expenditures,110586622,83,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2023-06-GSAFAC-0000350526
+2024,net_position_total,93766675,19,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,net_position_governmental,48734630,19,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,net_position_business_type,45032045,19,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,unrestricted_net_position_governmental,-79418731,19,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,general_fund_total_fund_balance,36633481,22,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,general_fund_unassigned_fund_balance,21220786,22,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,general_fund_committed,13666308,22,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,general_fund_assigned,822118,22,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,general_fund_restricted,924269,22,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,general_fund_total_revenues,111692479,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,general_fund_total_expenditures,108055793,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,general_fund_net_change_in_fund_balance,3461436,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,bonds_outstanding_total,40359160,17,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,bonds_outstanding_governmental,16762542,17,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,net_pension_liability_total,66704652,81,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,pension_plan_funded_ratio_pct,61.9,81,literal percentage found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,total_opeb_liability,74198573,84,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,opeb_plan_fiduciary_net_position,8192949,84,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,opeb_discount_rate_pct,6.3,78,literal percentage found on this page (page corrected by text search),https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,opeb_employer_contribution,3533602,84,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,opeb_actuarially_determined_contribution,5384881,84,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,gf_expenditure: General government,5847543,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,gf_expenditure: Public safety,8703446,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,gf_expenditure: Education,66289294,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,gf_expenditure: Public works,5668808,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,gf_expenditure: Health and human services,1302806,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,gf_expenditure: Culture and recreation,2473310,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,gf_expenditure: Employee benefits,13579362,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,gf_expenditure: Debt service - Principal,1877000,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,gf_expenditure: Debt service - Interest,588058,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,gf_expenditure: Intergovernmental,1726166,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,gf_revenue: Property taxes,74555264,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,gf_revenue: Excises,7695437,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,"gf_revenue: Penalties, interest, and other taxes",403906,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,gf_revenue: Departmental,741355,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,gf_revenue: Licenses and permits,1526410,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,gf_revenue: Intergovernmental,23063739,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,gf_revenue: Investment income,1752488,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,gf_revenue: Energy contracts and rebates,1390470,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,gf_revenue: Miscellaneous,563410,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,budgetary_basis_final_budget_total_revenues,98945434,85,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,budgetary_basis_actual_total_revenues,102303199,85,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,budgetary_basis_final_budget_total_expenditures,116619428,85,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2024,budgetary_basis_actual_total_expenditures,113389985,85,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2024-06-GSAFAC-0000370338
+2025,net_position_total,96727271,19,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,net_position_governmental,49540149,19,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,net_position_business_type,47187122,19,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,unrestricted_net_position_governmental,-81162476,19,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,general_fund_total_fund_balance,39049677,22,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,general_fund_unassigned_fund_balance,23733507,22,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,general_fund_committed,13715361,22,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,general_fund_assigned,265698,22,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,general_fund_restricted,1335111,22,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,general_fund_total_revenues,116874791,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,general_fund_total_expenditures,114760894,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,general_fund_net_change_in_fund_balance,2416196,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,bonds_outstanding_total,36308542,17,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,bonds_outstanding_governmental,15281040,17,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,net_pension_liability_total,65536186,81,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,pension_plan_funded_ratio_pct,63.8,81,literal percentage found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,total_opeb_liability,82013999,77,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,opeb_plan_fiduciary_net_position,9652873,77,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,opeb_discount_rate_pct,6.19,76,literal percentage found on this page (page corrected by text search),https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,opeb_employer_contribution,3892507,77,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,opeb_actuarially_determined_contribution,5362049,84,literal value found on this page (page corrected by text search),https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,gf_expenditure: General government,7346905,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,gf_expenditure: Public safety,10332865,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,gf_expenditure: Education,70251272,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,gf_expenditure: Public works,4466872,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,gf_expenditure: Health and human services,1385961,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,gf_expenditure: Culture and recreation,1774605,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,gf_expenditure: Employee benefits,15489354,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,gf_expenditure: Debt service - Principal,1577000,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,gf_expenditure: Debt service - Interest,517379,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,gf_expenditure: Intergovernmental,1618681,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,gf_revenue: Property taxes,77525219,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,gf_revenue: Excises,7727234,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,"gf_revenue: Penalties, interest, and other taxes",417209,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,gf_revenue: Departmental,866253,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,gf_revenue: Licenses and permits,1803600,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,gf_revenue: Intergovernmental,24503543,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,gf_revenue: Investment income,2174191,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,gf_revenue: Energy contracts and rebates,1390147,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,gf_revenue: Miscellaneous,467395,24,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,budgetary_basis_final_budget_total_revenues,102567920,85,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,budgetary_basis_actual_total_revenues,106377103,85,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,budgetary_basis_final_budget_total_expenditures,124114352,85,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
+2025,budgetary_basis_actual_total_expenditures,120418532,85,literal value found on this page,https://app.fac.gov/dissemination/report/pdf/2025-06-GSAFAC-0000424769
