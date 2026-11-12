@@ -24,6 +24,7 @@ All six transaction listings **contain FY2027 records**, even the two files name
 
 - [`summary-by-source-year.csv`](summary-by-source-year.csv): record counts and signed sums of the amount field by workbook/fiscal year; *not reconciled audited expenditures*
 - [`source-manifest.csv`](source-manifest.csv): workbook name, row counts and SHA-256 hashes to verify the source files exactly
+- [`dpw-general-fund-organization-summary-fy2022-fy2026.csv`](dpw-general-fund-organization-summary-fy2022-fy2026.csv): DPW-labeled general-fund ledger lines by fiscal year and organization description. **Not a complete DPW expenditure total** because payroll and enterprise-funded operations are not included.
 - This README documenting source and analysis limitations
 
 **NOT saved here:** the full workbooks. The active vendor list includes 3,370 populated vendor street-address fields; transaction descriptions can also contain names or other identifying detail. Public-record status does not mean indiscriminate republishing is appropriate. Keep the original files in private secure storage until each dataset is reviewed and approved for disclosure or redaction.
