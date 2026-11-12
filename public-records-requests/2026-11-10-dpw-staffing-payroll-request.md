@@ -1,7 +1,7 @@
 # DPW staffing and payroll records request
 
 - **Date sent:** 2026-11-10 (reported by requester)
-- **Status:** Sent; awaiting response
+- **Status:** Acknowledged; partial no-records response; organizational chart/roster and payroll review pending; commercial-purpose clarification requested
 - **To:** Tim Barber, DPW Records Access Officer — tbarber@dartmouthma.gov
 - **CC:** Sue Cunningham, Human Resources — scunningham@dartmouthma.gov
 - **Subject:** Public Records Request – DPW Staffing and Payroll Information
@@ -20,7 +20,28 @@ Scope includes all DPW divisions, including water, sewer, solid waste, and other
 
 | Date | Event | Status |
 | --- | --- | --- |
-| 2026-11-10 | Requester reported email sent to DPW with HR copied | Awaiting acknowledgment / response |
+| 2026-11-10 | Requester reported email sent to DPW with HR copied | Sent | 
+| 2026-11-12 | Carol D. Mello, HR Director, acknowledged request | Partial response; see summary below |
+
+## HR Director's response (November 12, 2026, 10:26 a.m. requester-provided email)
+
+**From:** Carol D. Mello, PHR, SHRM-CP (`cmello@dartmouthma.gov`).
+
+The town:
+1. **Organizational chart / employee roster:** will review existing records for responsive documents; availability not yet determined.
+2. **Authorized, filled, vacant positions / FTEs by DPW division:** states such reports or records are not maintained and there are no responsive records for this item.
+3. **Compensation / payroll FY2022–FY2026:** HR will coordinate with Payroll to determine whether existing records can be retrieved and in what format.
+4. **Historical division-level headcounts/FTEs and FY2027 staffing:** states these reports are not maintained and there are no responsive records for this item.
+5. **Commercial purpose:** asks requester to confirm whether the request is commercial.
+6. **Fees:** will provide an applicable fee estimate after reviewing available records.
+
+**Important:** This reflects what the Town says it maintains in these particular reporting formats. It does not establish that nobody tracks staff assignments, authorized budgets, labor charges, or rosters in any other existing record.
+
+### Follow-up needed
+- [ ] Reply to Carol: request is **noncommercial civic research**, aimed at transparency/understanding municipal operations. Do not claim reply sent until confirmed.
+- [ ] Await organizational chart/roster search outcome
+- [ ] Await Payroll's determination and any records/fees
+- [ ] If these reports do not exist, examine other records (payroll department/division codes, position budgets, work assignment logs) without demanding the Town create an analysis
 
 ## Follow-up
 
