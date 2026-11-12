@@ -31,6 +31,11 @@ Independent, nonpartisan, evidence-based research into how Dartmouth, Massachuse
 
 See [research standards](research/RESEARCH_STANDARDS.md), [official source register](research/OFFICIAL_SOURCES.md), and [meeting intelligence](meetings/README.md) (initial 2026 BPW meeting agenda index).
 
+## Town records received
+
+- [November 12, 2026 accounting data intake](records/2026-11-12-accounting-response/README.md): seven source workbooks inventoried; signed ledger totals, fiscal-year summaries and DPW general-fund breakdown posted; original workbooks pending privacy review and secure storage
+- [DPW staffing request response](public-records-requests/2026-11-10-dpw-staffing-payroll-request.md): partial response November 12; compensation and existing organizational records still pending
+
 ## Current records requests
 
 - [2026-11-10 municipal expenditure and vendor data request](public-records-requests/2026-11-10-financial-records-request.md) — sent (requester-reported), awaiting response
