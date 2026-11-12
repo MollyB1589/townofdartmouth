@@ -1,7 +1,7 @@
 # Public records request — municipal expenditure and vendor data
 
 - **Request date:** 2026-11-10
-- **Status:** Sent — **reported by requester** (not independently verified from sent-mail records)
+- **Status:** Records received November 12, 2026 (seven Excel workbooks, requester-reported); detailed verification and privacy review pending
 - **Recipient:** Dartmouth Accounting Department / Accounting Records Access Officer (Donna Fernandes)
 - **Public contact:** dfernandes@dartmouthma.gov
 - **Subject used in draft:** Massachusetts Public Records Request – Town Expenditure and Vendor Payment Data
@@ -20,9 +20,12 @@
 
 | Date | Action | Outcome |
 | --- | --- | --- |
-| 2026-11-10 | Request sent (requester-reported) | Awaiting acknowledgment or records |
+| 2026-11-10 | Request sent (requester-reported) | Sent | 
+| 2026-11-12 | Requester supplied seven Excel workbooks described as the response from Donna Fernandes | Received; not yet reconciled or cleared for raw public release |
 
-**Next step:** Save the acknowledgment/response date, any fee estimate, production schedule, records supplied, and any appeal or clarification under this request. Massachusetts public-records law generally calls for an initial response within 10 business days of receipt; verify the actual receipt date and holiday calculation before recording a statutory deadline.
+**Received-data index:** [November 12 accounting response](../records/2026-11-12-accounting-response/README.md). This has a file checksum manifest, safe summary tables and documented limitations. The received general-fund and other-funds exports contain FY2027 records despite their "2022-2026" filenames.
+
+**Next step:** Confirm with the Accounting Department whether these files fully satisfy the request or whether any responsive general ledger fields, enterprise fund datasets, payment dates, or other records remain outstanding. Preserve originals unchanged in private storage, and perform a privacy review before raw publication. No fee estimate was provided in the user-supplied update.
 
 ## Evidence and privacy standard
 
